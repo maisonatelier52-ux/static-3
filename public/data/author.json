@@ -1,0 +1,86 @@
+{
+  "Alice Morgan": {
+    "slug": "alice-morgan",
+    "category": "business",
+    "avatar": "/images/authors/alice-morgan.jpg",
+    "title": "Business Correspondent",
+    "location": "New York",
+    "bio": "Placeholder bio for Alice Morgan, covering markets, companies, and the broader economy.",
+    "joined": "Writing since 2017",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:alice-morgan@example.com"
+    }
+  },
+  "David Kim": {
+    "slug": "david-kim",
+    "category": "politics",
+    "avatar": "/images/authors/david-kim.jpg",
+    "title": "Politics Reporter",
+    "location": "Washington",
+    "bio": "Placeholder bio for David Kim, covering national politics, elections, and policy.",
+    "joined": "Writing since 2019",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:david-kim@example.com"
+    }
+  },
+  "Sara Wallace": {
+    "slug": "sara-wallace",
+    "category": "health",
+    "avatar": "/images/authors/sara-wallace.jpg",
+    "title": "Health Correspondent",
+    "location": "Chicago",
+    "bio": "Placeholder bio for Sara Wallace, covering public health, medicine, and wellness.",
+    "joined": "Writing since 2020",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:sara-wallace@example.com"
+    }
+  },
+  "Michael Chen": {
+    "slug": "michael-chen",
+    "category": "technology",
+    "avatar": "/images/authors/michael-chen.jpg",
+    "title": "Technology Reporter",
+    "location": "San Francisco",
+    "bio": "Placeholder bio for Michael Chen, covering technology, startups, and the internet.",
+    "joined": "Writing since 2018",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:michael-chen@example.com"
+    }
+  },
+  "Emma Brooks": {
+    "slug": "emma-brooks",
+    "category": "lifestyle",
+    "avatar": "/images/authors/emma-brooks.jpg",
+    "title": "Lifestyle Editor",
+    "location": "Los Angeles",
+    "bio": "Placeholder bio for Emma Brooks, covering culture, travel, and everyday life.",
+    "joined": "Writing since 2021",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:emma-brooks@example.com"
+    }
+  },
+  "James Carter": {
+    "slug": "james-carter",
+    "category": "sports",
+    "avatar": "/images/authors/james-carter.jpg",
+    "title": "Sports Correspondent",
+    "location": "Miami",
+    "bio": "Placeholder bio for James Carter, covering sports, athletes, and major events.",
+    "joined": "Writing since 2016",
+    "social": {
+      "twitter": "https://x.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:james-carter@example.com"
+    }
+  }
+}

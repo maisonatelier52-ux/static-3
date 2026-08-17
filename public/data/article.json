@@ -1,0 +1,1274 @@
+{
+  "business": [
+    {
+      "slug": "business-story-1",
+      "title": "Placeholder headline for Business story 1",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Alice Morgan",
+      "date": "14/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "business-story-2",
+      "title": "Placeholder headline for Business story 2",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Alice Morgan",
+      "date": "13/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "business-story-3",
+      "title": "Placeholder headline for Business story 3",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "Alice Morgan",
+      "date": "12/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "business-story-4",
+      "title": "Placeholder headline for Business story 4",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "Alice Morgan",
+      "date": "11/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "business-story-5",
+      "title": "Placeholder headline for Business story 5",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Alice Morgan",
+      "date": "10/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "business-story-6",
+      "title": "Placeholder headline for Business story 6",
+      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Alice Morgan",
+      "date": "09/08/2026",
+      "category": "Business",
+      "categorySlug": "business",
+      "tags": [
+        "Business"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Business story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ],
+  "politics": [
+    {
+      "slug": "politics-story-1",
+      "title": "Placeholder headline for Politics story 1",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "David Kim",
+      "date": "08/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "politics-story-2",
+      "title": "Placeholder headline for Politics story 2",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "David Kim",
+      "date": "07/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "politics-story-3",
+      "title": "Placeholder headline for Politics story 3",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "David Kim",
+      "date": "06/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "politics-story-4",
+      "title": "Placeholder headline for Politics story 4",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "David Kim",
+      "date": "05/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "politics-story-5",
+      "title": "Placeholder headline for Politics story 5",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "David Kim",
+      "date": "04/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "politics-story-6",
+      "title": "Placeholder headline for Politics story 6",
+      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "David Kim",
+      "date": "03/08/2026",
+      "category": "Politics",
+      "categorySlug": "politics",
+      "tags": [
+        "Politics"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Politics story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ],
+  "health": [
+    {
+      "slug": "health-story-1",
+      "title": "Placeholder headline for Health story 1",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Sara Wallace",
+      "date": "02/08/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "health-story-2",
+      "title": "Placeholder headline for Health story 2",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Sara Wallace",
+      "date": "01/08/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "health-story-3",
+      "title": "Placeholder headline for Health story 3",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "Sara Wallace",
+      "date": "30/07/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "health-story-4",
+      "title": "Placeholder headline for Health story 4",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "Sara Wallace",
+      "date": "29/07/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "health-story-5",
+      "title": "Placeholder headline for Health story 5",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Sara Wallace",
+      "date": "28/07/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "health-story-6",
+      "title": "Placeholder headline for Health story 6",
+      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Sara Wallace",
+      "date": "27/07/2026",
+      "category": "Health",
+      "categorySlug": "health",
+      "tags": [
+        "Health"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Health story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ],
+  "technology": [
+    {
+      "slug": "technology-story-1",
+      "title": "Placeholder headline for Technology story 1",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Michael Chen",
+      "date": "26/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "technology-story-2",
+      "title": "Placeholder headline for Technology story 2",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Michael Chen",
+      "date": "25/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "technology-story-3",
+      "title": "Placeholder headline for Technology story 3",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "Michael Chen",
+      "date": "24/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "technology-story-4",
+      "title": "Placeholder headline for Technology story 4",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "Michael Chen",
+      "date": "23/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "technology-story-5",
+      "title": "Placeholder headline for Technology story 5",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Michael Chen",
+      "date": "22/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "technology-story-6",
+      "title": "Placeholder headline for Technology story 6",
+      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Michael Chen",
+      "date": "21/07/2026",
+      "category": "Technology",
+      "categorySlug": "technology",
+      "tags": [
+        "Technology"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Technology story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ],
+  "lifestyle": [
+    {
+      "slug": "lifestyle-story-1",
+      "title": "Placeholder headline for Lifestyle story 1",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Emma Brooks",
+      "date": "20/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-story-2",
+      "title": "Placeholder headline for Lifestyle story 2",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Emma Brooks",
+      "date": "19/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-story-3",
+      "title": "Placeholder headline for Lifestyle story 3",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "Emma Brooks",
+      "date": "18/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-story-4",
+      "title": "Placeholder headline for Lifestyle story 4",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "Emma Brooks",
+      "date": "17/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-story-5",
+      "title": "Placeholder headline for Lifestyle story 5",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "Emma Brooks",
+      "date": "16/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "lifestyle-story-6",
+      "title": "Placeholder headline for Lifestyle story 6",
+      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "Emma Brooks",
+      "date": "15/07/2026",
+      "category": "Lifestyle",
+      "categorySlug": "lifestyle",
+      "tags": [
+        "Lifestyle"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Lifestyle story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ],
+  "sports": [
+    {
+      "slug": "sports-story-1",
+      "title": "Placeholder headline for Sports story 1",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "James Carter",
+      "date": "14/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 1, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "sports-story-2",
+      "title": "Placeholder headline for Sports story 2",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "James Carter",
+      "date": "13/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 2, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "sports-story-3",
+      "title": "Placeholder headline for Sports story 3",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img3.webp",
+      "author": "James Carter",
+      "date": "12/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 3, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "sports-story-4",
+      "title": "Placeholder headline for Sports story 4",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img4.webp",
+      "author": "James Carter",
+      "date": "11/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 4, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "sports-story-5",
+      "title": "Placeholder headline for Sports story 5",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img1.webp",
+      "author": "James Carter",
+      "date": "10/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 5, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    },
+    {
+      "slug": "sports-story-6",
+      "title": "Placeholder headline for Sports story 6",
+      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
+      "image": "/images/img2.webp",
+      "author": "James Carter",
+      "date": "09/07/2026",
+      "category": "Sports",
+      "categorySlug": "sports",
+      "tags": [
+        "Sports"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Placeholder opening paragraph for Sports story 6, setting up the story and drawing the reader in with the most important information first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
+        },
+        {
+          "type": "heading",
+          "text": "A placeholder subheading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
+        }
+      ]
+    }
+  ]
+}

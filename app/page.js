@@ -1,7 +1,7 @@
 import Business from "@/components/business";
 import Health from "@/components/health";
-import Politics from "@/components/politics";
-import Technology from "@/components/technology";
+import World from "@/components/world";
+import US from "@/components/us";
 import Lifestyle from "@/components/lifestyle";
 import Sports from "@/components/sports";
 
@@ -10,8 +10,8 @@ export default function Home() {
     <main>
       <Business />
       <Health />
-      <Politics />
-      <Technology />
+      <World />
+      <US />
       <Lifestyle />
       <Sports />
     </main>

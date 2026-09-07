@@ -4,7 +4,7 @@ import Link from "next/link";
 import articleData from "../public/data/article.json";
 import authorData from "../public/data/author.json";
 
-const CATEGORY = "technology";
+const CATEGORY = "us";
 
 const parseDate = (dateStr) => {
   const [day, month, year] = dateStr.split("/");
@@ -16,8 +16,8 @@ function bylineFor(authorName) {
   return location ? `${authorName} | ${location.toUpperCase()}` : authorName;
 }
 
-// Newest Technology article becomes the lead; the next 3 newest fill the cards.
-function getTechnologyStories() {
+// Newest U.S. article becomes the lead; the next 3 newest fill the cards.
+function getUSStories() {
   const posts = [...(articleData[CATEGORY] || [])].sort(
     (a, b) => parseDate(b.date) - parseDate(a.date)
   );
@@ -75,7 +75,7 @@ function AdBox() {
 }
 
 export default function Highlight() {
-  const { lead, cards } = getTechnologyStories();
+  const { lead, cards } = getUSStories();
 
   if (!lead) return null;
 
@@ -83,7 +83,7 @@ export default function Highlight() {
     <section className="max-w-6xl mx-auto px-4 md:px-8 py-8">
     <div className="border-t-4 border-gray-900 pt-4 mb-6">
       <h2 className="inline-block font-serif font-bold text-2xl text-gray-900 border-b-2 border-gray-900 pb-2 mb-6">
-        Technology
+        U.S.
       </h2>
      </div> 
 

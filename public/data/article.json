@@ -1,711 +1,943 @@
 {
   "business": [
     {
-      "slug": "business-story-1",
-      "title": "Placeholder headline for Business story 1",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Alice Morgan",
-      "date": "14/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "business-story-2",
-      "title": "Placeholder headline for Business story 2",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Alice Morgan",
-      "date": "13/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "business-story-3",
-      "title": "Placeholder headline for Business story 3",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "Alice Morgan",
-      "date": "12/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "business-story-4",
-      "title": "Placeholder headline for Business story 4",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "Alice Morgan",
-      "date": "11/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "business-story-5",
-      "title": "Placeholder headline for Business story 5",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Alice Morgan",
-      "date": "10/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "business-story-6",
-      "title": "Placeholder headline for Business story 6",
-      "dek": "A short summary describing what this business article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Alice Morgan",
-      "date": "09/08/2026",
-      "category": "Business",
-      "categorySlug": "business",
-      "tags": [
-        "Business"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Business story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    }
+  "slug": "august-jobs-report-shock-fed-rate-hike-bets-2026",
+  "title": "Blowout Jobs Report Spooks Wall Street Into Rate Hike Bets",
+  "dek": "August payrolls beat forecasts, lifting bond yields and pressuring stocks as traders now see better odds of a Fed rate hike this month.",
+  "image": "/images/august-jobs-report-shock-fed-rate-hike-bets-2026.webp",
+  "author": "Alice Morgan",
+  "date": "04/09/2026",
+  "category": "Business",
+  "categorySlug": "business",
+  "metaDescription": "US payrolls grew 162,000 in August, triple forecasts, sending bond yields higher and pushing Fed rate-hike odds above 50% ahead of September's meeting.",
+  "tags": [
+    "Business",
+    "Economy"
   ],
-  "politics": [
+  "body": [
     {
-      "slug": "politics-story-1",
-      "title": "Placeholder headline for Politics story 1",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "David Kim",
-      "date": "08/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Wall Street spent Friday recalibrating almost everything it thought it knew about the Federal Reserve's next move. The Labor Department reported the US economy added 162,000 jobs in August, decisively beating the 55,000 economists polled by Dow Jones had expected, while the unemployment rate held steady at 4.1%. Figures for both June and July were also revised upward, adding even more strength to a labor market that had, until Friday, looked like it was cooling off fast enough to all but guarantee a Fed rate cut this month."
     },
     {
-      "slug": "politics-story-2",
-      "title": "Placeholder headline for Politics story 2",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "David Kim",
-      "date": "07/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The market's reaction was swift and unambiguous. The Dow Jones Industrial Average fell 271.86 points, or 0.51%, to close at 53,414.25. The S&P 500 slid 0.38% to 7,718.60, and the Nasdaq Composite dropped 0.29% to 26,506.99, halting a string of back-to-back gains. Treasury yields jumped on the news, with the 2-year yield, which tends to react most directly to expected Fed policy shifts, touching its highest level since January 2025."
     },
     {
-      "slug": "politics-story-3",
-      "title": "Placeholder headline for Politics story 3",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "David Kim",
-      "date": "06/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "heading",
+      "text": "From 'Almost Certain Cut' to 'Coin Flip on a Hike'"
     },
     {
-      "slug": "politics-story-4",
-      "title": "Placeholder headline for Politics story 4",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "David Kim",
-      "date": "05/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What makes Friday's report genuinely consequential isn't just the size of the beat, it's how completely it scrambled market expectations heading into the Fed's September meeting. Swap contracts, the market's real-time bet on where interest rates are headed, moved to price in more than a 50% chance the Fed raises rates this month rather than holding steady or cutting, a dramatic shift from the rate-cut expectations that had dominated market pricing for weeks beforehand."
     },
     {
-      "slug": "politics-story-5",
-      "title": "Placeholder headline for Politics story 5",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "David Kim",
-      "date": "04/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Bill Adams, chief US economist at Fifth Third Commercial Bank, summed up the shift bluntly: the August report was much better than expected, he said, and it puts the Fed squarely back to focusing on controlling inflation heading into its next meeting. He described the coming decision as finely balanced, one that will likely hinge on next week's Consumer Price Index and Producer Price Index inflation readings just as much as on Friday's employment data."
     },
     {
-      "slug": "politics-story-6",
-      "title": "Placeholder headline for Politics story 6",
-      "dek": "A short summary describing what this politics article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "David Kim",
-      "date": "03/08/2026",
-      "category": "Politics",
-      "categorySlug": "politics",
-      "tags": [
-        "Politics"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Politics story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "heading",
+      "text": "A Bond Market Already Under Pressure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Friday's jobs shock landed on top of a bond market that was already showing real strain. Global bond yields have climbed sharply in recent weeks, and with US oil prices sitting near $90 a barrel amid the broader geopolitical backdrop, the combination has started putting genuine pressure on stock valuations as well, not just fixed income. Mortgage rates have felt that same pressure directly: the average 30-year fixed rate climbed to a new high for 2026, edging closer to the psychologically significant 7% threshold, a level that would mark a real setback for a housing market that had spent much of the summer hoping for the opposite trend."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, the practical takeaway from Friday's jobs report is less a settled verdict and more a reopened debate. A labor market this resilient makes it considerably harder for the Fed to justify cutting rates purely to support employment, the traditional rationale behind a rate cut, while inflation data due out in the coming days will likely determine whether policymakers feel they have room to hold steady or need to lean toward tightening instead. With US markets closed Monday for the Labor Day holiday, traders have an extended weekend to digest Friday's numbers before the next wave of economic data, and the Fed's ultimate decision, arrives in the weeks ahead."
     }
+  ]
+},
+    {
+  "slug": "billionaire-wealth-record-15-trillion-ai-boom-2026",
+  "title": "Billionaires Gain $1.7 Trillion as AI Drives Most of the Wealth",
+  "dek": "Global billionaire wealth hit a record $15.1T in 2025, driven by AI and North America, while a small group of superbillionaires controls over a quarter of the total.",
+  "image": "/images/billionaire-wealth-record-15-trillion-ai-boom-2026.webp",
+  "author": "Alice Morgan",
+  "date": "04/09/2026",
+  "category": "Business",
+  "categorySlug": "business",
+  "metaDescription": "Global billionaire wealth hit a record $15.1 trillion in 2025, up 12.8%, as AI-driven stock gains widened the gap at the very top of the wealth ladder.",
+  "tags": [
+    "Business",
+    "Wealth"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The world's billionaires had their best year in recent memory, and artificial intelligence is the reason why. According to the newly released Altrata 2026 Billionaire Census, global billionaire wealth surged 12.8% in 2025 to a record $15.1 trillion, the steepest annual jump in five years. The billionaire population itself grew to an all-time high of 3,795 individuals, an 8.2% increase, also the largest annual headcount growth in five years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notably, wealth grew even faster than the headcount did, meaning the average billionaire got meaningfully richer in 2025, not just that more people crossed the ten-figure threshold. Altrata pinned much of that gap directly on the artificial intelligence investment boom reshaping public markets, identifying 150 publicly listed companies that contributed most significantly to billionaire wealth creation over the year."
+    },
+    {
+      "type": "heading",
+      "text": "Why AI Exposure Made Such a Measurable Difference"
+    },
+    {
+      "type": "paragraph",
+      "text": "The report's most concrete finding is also its most striking: companies that invested at least $30 million in AI over the past five years posted 23% higher market capitalization growth between 2024 and 2025 than companies that didn't make that same investment. For billionaires whose fortunes are tied up in founder or major shareholder stakes, that kind of outperformance translates almost directly into personal net worth, which helps explain why AI-exposed tech fortunes drove such a disproportionate share of this year's overall wealth gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "North America benefited from that dynamic more than any other region, both in raw billionaire count and in growth pace. The region now counts 1,337 billionaires, the largest concentration in the world, and posted the fastest growth rate of any region tracked in the report, a reflection of just how much of the AI investment boom, from chipmakers to hyperscale cloud providers to the AI labs themselves, is concentrated in US markets specifically."
+    },
+    {
+      "type": "heading",
+      "text": "A Shrinking Circle at the Very Top Is Pulling Away"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneath the headline number, the report describes wealth concentrating even further at the absolute top of the billionaire class. Altrata identified 29 so-called superbillionaires, individuals worth more than $50 billion, who together hold a combined $4.1 trillion, or 27% of all billionaire wealth. That's a dramatic shift from 2017, when just 10 people qualified as superbillionaires, representing only 7.2% of total billionaire wealth at the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Total billionaire wealth now equals roughly a quarter of the entire S&P 500's market capitalization, according to the report, a figure that illustrates just how tightly the broader global economy has become tethered to the fortunes, and the stock portfolios, of a genuinely small number of individuals."
+    },
+    {
+      "type": "heading",
+      "text": "The Same Force Behind the Gains Is a Real Vulnerability"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maya Imberg, Altrata's head of thought leadership and analytics, was direct about the risk baked into this year's gains: wealth built this heavily on AI-exposed tech stocks is inherently volatile, and the fortunes of many of the richest billionaires should be expected to swing up and down right along with the broader AI narrative in the market, not settle into steady, predictable growth."
+    },
+    {
+      "type": "paragraph",
+      "text": "That volatility has already shown up in dramatic fashion this year. A $1.3 trillion selloff hit major chip stocks in July alone, and individual billionaires felt that swing directly: reports indicate Elon Musk absorbed an $18 billion single-day drop in net worth during one such selloff, while Oracle's Larry Ellison saw a $50 billion plunge over a single day at another point in the year. For a wealth class this concentrated in tech and AI exposure, those kinds of single-day swings are becoming a regular feature of the landscape rather than a rare shock."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means Going Forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, Altrata's report frames 2025 as a genuinely historic year for the ultra-wealthy, one where all major asset classes posted positive returns simultaneously for the first time since the pandemic era, a rare alignment that helped drive the record combined total. Whether 2026 delivers anything close to a repeat performance will likely depend on whether the AI investment story that powered so much of last year's gains continues to hold up under the kind of scrutiny, and volatility, that's already started showing up in the market this year."
+    }
+  ]
+},
+    {
+  "slug": "gm-ford-defense-energy-storage-pivot-2026",
+  "title": "GM and Ford's Century-Old Rivalry Just Moved to an Actual Battlefield",
+  "dek": "Detroit's biggest automakers face slowing car sales and EV losses, pushing them to compete for military contracts and a growing share of the energy storage market.",
+  "image": "/images/gm-ford-defense-energy-storage-pivot-2026.webp",
+  "author": "Alice Morgan",
+  "date": "05/09/2026",
+  "category": "Business",
+  "categorySlug": "business",
+  "metaDescription": "GM and Ford are expanding their century-old rivalry into military contracting and energy storage, seeking new revenue as traditional auto sales cool off.",
+  "tags": [
+    "Business",
+    "Automotive"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "General Motors and Ford have spent more than a century competing over racing, vehicle sales, and just about everything else in the automotive world. This year, their rivalry has moved into territory neither company was known for a decade ago: actual battlefields, and the US energy grid. Both Detroit giants are now pursuing US military contracts and building out energy storage system businesses, a strategic pivot driven less by ambition than by necessity, as traditional vehicle demand cools and both companies grapple with the financial reality of their electric vehicle bets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ford joined GM in seeking military contracts this year after the Trump administration approached major US manufacturers about applying their mass-production expertise to military hardware. The automakers' defense efforts so far center largely on military vehicles, though industry watchers expect that focus could broaden over time as both companies build out their capabilities in the space."
+    },
+    {
+      "type": "heading",
+      "text": "GM's Head Start in Defense"
+    },
+    {
+      "type": "paragraph",
+      "text": "GM enters this pivot with a real advantage: years of existing groundwork in the defense sector through GM Defense, its dedicated military-focused unit. The company expects its 2026 defense revenue to climb to almost $700 million, and is specifically targeting positive results on an earnings-before-interest-and-tax basis this year, while simultaneously building a backlog of future contracts. CEO Mary Barra told investors in July that GM is working with Lockheed Martin and other established defense contractors to expand the speed, scale, and resilience of the broader defense industrial base, adding that she expects GM Defense to become a more meaningful and diversified contributor to the company's overall earnings over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "One notable piece of that buildout is GM Defense's next-generation prototype tactical vehicle, based on the automaker's off-road Chevrolet Colorado ZR2 midsize truck architecture, a concrete example of how GM is leveraging existing civilian vehicle engineering rather than building military hardware entirely from scratch. Officials overseeing manned and unmanned ground systems for the US Army have said the current administration has made it meaningfully easier for new entrants, including automakers, to win these kinds of contracts, while also emphasizing that domestic manufacturing capacity remains a critical priority given ongoing concerns about foreign involvement in defense supply chains."
+    },
+    {
+      "type": "heading",
+      "text": "Ford's Bigger Bet Is on the Power Grid"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ford's version of this pivot leans harder into energy storage than defense contracting. The company's energy business sits inside its Model e electric vehicle segment, which is guided to post roughly $4 billion in losses for 2026 before the company expects to reach breakeven by 2029, a timeline that puts real pressure on Ford's energy storage system, or ESS, business to start contributing meaningfully once it comes fully online in 2027."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ford is converting a Kentucky battery facility, built originally in partnership with SK On, into an ESS production line, backed by a broader $2 billion investment into the energy business overall. CEO Jim Farley told investors on the company's second-quarter earnings call that Ford is in the third inning of selling out its 20 gigawatt-hours of ESS production capacity, following a five-year framework agreement with renewable-energy service provider EDF Power Solutions North America."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Energy Storage Market Specifically"
+    },
+    {
+      "type": "paragraph",
+      "text": "The logic behind both companies chasing energy storage isn't abstract. Morningstar analyst David Whiston has described the move as a genuinely sensible use of existing capacity, noting that entering the ESS market lets automakers put idle EV battery factory capacity to work serving the rapidly growing data center sector, which needs exactly the kind of large-scale battery storage these facilities were already built to produce. Rising consumer energy costs and surging electricity demand from data centers have combined to make grid-scale storage one of the more genuinely promising growth markets available to companies sitting on underutilized battery manufacturing capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "GM has pursued its own version of that repurposing strategy, including a partnership with Redwood Materials focused on EV battery reuse and an existing joint venture with LG Energy Solution, both of which give the company additional pathways to extract value from battery technology and manufacturing investments originally built around vehicle production."
+    },
+    {
+      "type": "heading",
+      "text": "A Pivot Built for the Long Game, Not a Quick Fix"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither company expects these new ventures to immediately match the scale of traditional vehicle sales, and industry analysts are candid about that reality. What defense and energy storage offer instead is operational flexibility and a genuine diversification play at a moment when the core auto business is under real pressure: slowing domestic vehicle demand on one side, and billions of dollars in ongoing EV losses on the other. Defense contracts bring the kind of long-term, relatively stable revenue streams the volatile auto sales cycle doesn't offer, while the ESS market's growth trajectory, one industry estimate puts the total addressable market as high as $5.12 trillion by 2034, gives both companies a genuinely large opportunity to grow into over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether either pivot ultimately succeeds will come down to execution as much as opportunity. For GM, that means proving defense can actually turn a sustainable profit while the company continues scaling its advanced battery chemistry partnerships elsewhere. For Ford, it means converting idled EV manufacturing capacity into a genuinely profitable ESS production line by late 2027, a deadline that will go a long way toward determining whether the Model e division can actually bridge the gap to its promised 2029 breakeven target."
+    }
+  ]
+},
+    {
+  "slug": "five-below-earnings-turnaround-q2-2026-retail-season",
+  "title": "Five Below Earnings Triple as Retailer Stages Major Turnaround",
+  "dek": "Five Below posted its fifth straight quarter of double-digit sales growth, marking a major turnaround from 2024 as US retailers split into clear winners and losers.",
+  "image": "/images/five-below-earnings-turnaround-q2-2026-retail-season.webp",
+  "author": "Alice Morgan",
+  "date": "05/09/2026",
+  "category": "Business",
+  "categorySlug": "business",
+  "metaDescription": "Five Below's Q2 2026 earnings surged 107% as comparable sales rose 14.1%, its fifth straight quarter of double-digit growth, in a mixed retail season.",
+  "tags": [
+    "Business",
+    "Retail"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Five Below just posted the kind of quarter that turnaround stories are made of. The value retailer's second-quarter fiscal 2026 results, announced September 2, blew past Wall Street's expectations on every major measure: net sales rose 22.9% to $1.26 billion, comparable sales climbed 14.1%, and earnings surged 107.4% from the same quarter a year earlier. Operating income jumped to $275.4 million, up from just $52.4 million in the same period last year, a more than five-fold increase that says as much about how rough 2024 had been as it does about how strong this rebound has become."
+    },
+    {
+      "type": "paragraph",
+      "text": "This wasn't a one-quarter fluke. The results mark Five Below's fifth consecutive quarter of double-digit comparable sales growth, a genuinely sustained streak that signals the company has found something that's actually working with shoppers, not just a single strong holiday season or a favorable earnings comparison against a weak prior year."
+    },
+    {
+      "type": "heading",
+      "text": "What Actually Changed Inside the Stores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of Five Below's turnaround traces directly back to a strategic reversal. The company had previously experimented with Five Beyond, an expanded-format concept selling higher-priced items above its traditional $5 price point, a bet that didn't resonate the way the company hoped. This year, Five Below has been re-merchandising that former Five Beyond space into what it calls immersive product Worlds, curated sections organized around specific themes and improved store sightlines designed to make merchandise easier to actually discover while browsing, rather than simply expanding the price ceiling and hoping shoppers followed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The company also kept growing its physical footprint through the turnaround rather than pulling back defensively. Five Below opened 52 net new stores during the quarter, ending the period with 2,022 locations across 46 states, an 8.8% increase in store count from the same point a year earlier, evidence that management viewed the improving sales trends as a signal to keep expanding rather than a fragile recovery worth protecting cautiously."
+    },
+    {
+      "type": "heading",
+      "text": "Raising the Bar for the Rest of the Year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Confidence in that momentum showed up directly in Five Below's own guidance. The company raised its full-year 2026 sales and earnings-per-share outlook following the results, a straightforward signal that management expects the current growth trajectory to continue through the back half of the year rather than treating the second quarter as a temporary high point."
+    },
+    {
+      "type": "heading",
+      "text": "A Season That's Splitting Retailers Into Two Very Different Camps"
+    },
+    {
+      "type": "paragraph",
+      "text": "Five Below's strength stands out partly because it's happening alongside genuine struggle elsewhere in the sector this earnings season. Across the 171 companies tracked in LSEG's Q2 2026 Retail Scorecard, 71% of those reporting so far beat analysts' revenue expectations, with blended revenue growth for the group running at 7.8%, solid numbers on their face. But the underlying picture is uneven: Campbell's, the packaged food company, reported results reflecting what its own CEO Mick Beekhuizen called top-line softness and inflation-driven margin headwinds, weak enough that the company cut its quarterly dividend from 39 cents to 25 cents specifically to reduce debt, alongside a plan targeting $500 million in cost cuts by 2030."
+    },
+    {
+      "type": "paragraph",
+      "text": "That kind of split, value-focused retailers like Five Below thriving while packaged food and other categories struggle with inflation-driven margin pressure, has become one of the more consistent storylines of this earnings season. Petco offered another data point in Five Below's direction, posting an adjusted EBITDA margin of 8.2% for the quarter, well above the 7.4% analysts had expected, sending shares up roughly 9% in trading."
+    },
+    {
+      "type": "heading",
+      "text": "The Bigger Economic Backdrop"
+    },
+    {
+      "type": "paragraph",
+      "text": "This earnings season is unfolding against a broader corporate profit picture that's genuinely strong by historical standards. FactSet forecasts S&P 500 earnings grew 50.4% in the second quarter of 2026, which would mark the highest earnings growth rate for the index since the second quarter of 2021, though analysts note that a deal ending the Iran conflict likely came too late to fully offset how much it weighed on some companies' performance between March and June. For value retailers like Five Below specifically, that combination, resilient consumer spending on affordable goods even amid broader economic uncertainty, appears to be exactly the environment where their business model performs best, turning what could have been a difficult stretch for discretionary retail into one of this earnings season's clearest success stories instead."
+    }
+  ]
+}
   ],
   "health": [
     {
-      "slug": "health-story-1",
-      "title": "Placeholder headline for Health story 1",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Sara Wallace",
-      "date": "02/08/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "health-story-2",
-      "title": "Placeholder headline for Health story 2",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Sara Wallace",
-      "date": "01/08/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "health-story-3",
-      "title": "Placeholder headline for Health story 3",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "Sara Wallace",
-      "date": "30/07/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "health-story-4",
-      "title": "Placeholder headline for Health story 4",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "Sara Wallace",
-      "date": "29/07/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "health-story-5",
-      "title": "Placeholder headline for Health story 5",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Sara Wallace",
-      "date": "28/07/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "health-story-6",
-      "title": "Placeholder headline for Health story 6",
-      "dek": "A short summary describing what this health article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Sara Wallace",
-      "date": "27/07/2026",
-      "category": "Health",
-      "categorySlug": "health",
-      "tags": [
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Health story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    }
+  "slug": "medical-groups-fall-vaccine-guidance-cdc-gap-2026",
+  "title": "Top US Doctors Issue Their Own Vaccine Guidance as CDC Stays Silent",
+  "dek": "Four major medical groups issued fall 2026 flu, COVID and RSV guidance after the CDC process stalled, breaking with decades of federal vaccine recommendations.",
+  "image": "/images/medical-groups-fall-vaccine-guidance-cdc-gap-2026.webp",
+  "author": "David Kim",
+  "date": "05/09/2026",
+  "category": "Health",
+  "categorySlug": "health",
+  "metaDescription": "Four major US medical groups issued their own flu, COVID, and RSV vaccine guidance for fall 2026 after the CDC's advisory committee process stalled for months.",
+  "tags": [
+    "Health",
+    "Vaccines",
+    "Public Health"
   ],
-  "technology": [
+  "body": [
     {
-      "slug": "technology-story-1",
-      "title": "Placeholder headline for Technology story 1",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Michael Chen",
-      "date": "26/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "For more than six decades, one federal process has anchored how American doctors and patients know which vaccines to get each fall and winter: the CDC's Advisory Committee on Immunization Practices, or ACIP, working alongside the agency's broader guidance apparatus. This fall, facing a vacuum where that process usually sits, four of the country's largest medical organizations decided not to wait any longer. On September 2, the American Academy of Family Physicians, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Infectious Diseases Society of America jointly released their own evidence-based recommendations for flu, COVID-19, and RSV vaccination for the 2026-2027 respiratory virus season."
     },
     {
-      "slug": "technology-story-2",
-      "title": "Placeholder headline for Technology story 2",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Michael Chen",
-      "date": "25/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The effort was coordinated through the Vaccine Integrity Project, based at the University of Minnesota's Center for Infectious Disease Research and Policy, working in partnership with the American Medical Association. The project conducted an independent review of hundreds of peer-reviewed studies published since August 2025, building on a similar evidence review it had completed for the 2025-2026 season, to produce recommendations the participating physician groups describe as grounded in the best available scientific evidence."
     },
+    {
+      "type": "heading",
+      "text": "Why the Federal Process Stalled"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CDC's immunization recommendation process has effectively been paused since March, after a federal district court in Massachusetts invalidated changes Health and Human Services Secretary Robert F. Kennedy Jr. had made to ACIP's membership. That legal challenge has left the committee, along with recommendations made by the replacement members Kennedy had appointed after removing the panel's prior members, in a state of ongoing legal limbo. As of early September, no confirmed date had been set for an advisory committee meeting that could produce official federal guidance for the 2026-2027 season."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the absence of new federal guidance, the CDC updated its website in early September to state that flu vaccination recommendations dated from July 2025 would simply remain in effect for the coming season, an update that notably didn't address the newly FDA-approved mRNA flu vaccine for older adults. The agency has not issued any new recommendations for RSV immunization or COVID-19 vaccines for this specific season at all."
+    },
+    {
+      "type": "heading",
+      "text": "What the Doctors' Groups Are Actually Recommending"
+    },
+    {
+      "type": "paragraph",
+      "text": "On influenza, the medical societies and the CDC's existing guidance remain in agreement: annual flu vaccination for everyone six months of age and older, with high-dose or adjuvanted formulations prioritized for adults 65 and up. The clearest divergence from federal guidance shows up around COVID-19 vaccination for young children. The physician groups recommend the COVID vaccine outright for children between 6 and 23 months old, and for higher-risk children aged 2 to 18, while the CDC's current guidance for parents of children under 18 offers no direct recommendation at all, simply advising them to consult their doctor."
+    },
+    {
+      "type": "paragraph",
+      "text": "For RSV, the groups recommend vaccination for all infants younger than 8 months who weren't protected through maternal vaccination during pregnancy, using nirsevimab or clesrovimab, along with high-risk children aged 8 to 19 months entering a second RSV season. On COVID-19 more broadly, the groups specifically recommend vaccination for immunocompromised patients 6 months and older, and suggest discussing an additional dose two to six months after the first for people with high-risk underlying conditions."
+    },
+    {
+      "type": "heading",
+      "text": "Doctors Are Being Direct About Why They Acted"
+    },
+    {
+      "type": "paragraph",
+      "text": "The physician groups involved didn't downplay the significance of stepping outside the normal federal process. IDSA President Dr. Ronald Nahass said that in the absence of clarity from national public health officials, the physician community wanted patients and clinicians to see a unified, clear, consistent, and evidence-based message instead. Dr. Bruce Gellin, board chair of the Vaccine Integrity Project and a professor of medicine at Georgetown University, put the underlying stakes in blunt terms at a news briefing, noting that for more than 60 years the country had benefited from an established federal process for evaluating vaccine evidence, one centered on the CDC and ACIP, and that the federal government is not currently fulfilling that responsibility the way it historically has, even though influenza, SARS-CoV-2, and RSV will all circulate again this fall and winter regardless."
+    },
+    {
+      "type": "heading",
+      "text": "What This Means for Access and Insurance Coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "For families relying on public vaccine access, some continuity remains intact regardless of the guidance gap. A CDC spokesperson confirmed that flu and COVID vaccines, along with RSV-protective monoclonal antibodies for infants, will continue to be provided this respiratory season through the federal Vaccines for Children program, which supplies free vaccines to roughly half of the nation's children."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond that program, though, real uncertainty remains. Whether private insurers will uniformly follow the new society-based guidance rather than waiting for official federal recommendations is, as of this fall, genuinely untested, since insurance coverage decisions have historically tracked ACIP recommendations closely. Real-world effectiveness data for this season's specific COVID-19 vaccine formula doesn't yet exist either, meaning much of the evidence underlying this year's guidance, from both the medical societies and any eventual federal recommendation, will continue evolving as the respiratory virus season actually unfolds."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Numbers Behind This Make It More Than a Procedural Dispute"
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of what's at stake gives the guidance gap real weight beyond questions of bureaucratic process. The CDC has estimated that influenza alone was associated with somewhere between 390,000 and 800,000 hospitalizations during the 2025-2026 season. For the millions of American families who'll be making fall vaccination decisions over the coming weeks, largely without a unified federal recommendation to rely on for the first time in decades, the practical bottom line is straightforward, if unglamorous: talk to a pediatrician or primary care doctor directly, since the guidance landscape this year is genuinely more fragmented, and more actively contested, than it's been at any point in recent memory."
+    }
+  ]
+},
+    {
+  "slug": "trump-executive-order-split-mmr-vaccine-2026",
+  "title": "Trump Pushes Three Separate MMR Shots as Doctors Raise Concerns",
+  "dek": "Trump's August order seeks to split the MMR vaccine into three shots, but doctors say spacing them out lacks evidence and could leave more children unprotected.",
+  "image": "/images/trump-executive-order-split-mmr-vaccine-2026.webp",
+  "author": "David Kim",
+  "date": "05/09/2026",
+  "category": "Health",
+  "categorySlug": "health",
+  "metaDescription": "Trump's executive order calls for splitting the MMR vaccine into three shots, a move medical experts say isn't supported by evidence and could reduce protection.",
+  "tags": [
+    "Health",
+    "Vaccines",
+    "Public Health"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "President Trump signed an executive order on August 10 calling for the combined measles, mumps, and rubella vaccine to eventually be administered as three separate single-disease shots, and for childhood immunizations more broadly to be spaced out across separate medical visits wherever feasible. The order also directs federal officials to develop a plan within 90 days for making that separation happen, and instructs the Department of Justice to examine whether individual states are complying with existing exemptions to childhood vaccine mandates."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth stating plainly what the scientific evidence actually shows: vaccine safety experts at the CDC and the American Academy of Pediatrics agree the MMR vaccine is not responsible for the recent rise in autism diagnoses, a claim the executive order's framing has repeatedly invoked despite the absence of supporting data. Extensive, long-running research has consistently found no causal link between the MMR vaccine and autism, and the order was not accompanied by any new scientific evidence when it was signed."
+    },
+    {
+      "type": "heading",
+      "text": "A Practical Problem: The Separate Shots Don't Currently Exist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Individual vaccines against measles, mumps, and rubella aren't currently available in the United States at all. The combined MMR shot has been standard since 1971, and the two companies that manufacture it, Merck and GSK, have both indicated that reformulating and reintroducing separate single-disease vaccines wouldn't be simple. Merck specifically noted that meeting the safety and efficacy requirements for FDA approval, then actually scaling up manufacturing and commercialization, could take as long as a decade. GSK, for its part, said it stands by the safety of its existing combination vaccine, which has been used for decades to protect against measles, mumps, and rubella simultaneously."
+    },
+    {
+      "type": "heading",
+      "text": "Why Experts Say This Would Mean More Shots, Not Fewer"
+    },
+    {
+      "type": "paragraph",
+      "text": "The order's stated goal of reducing childhood vaccination burden runs into an awkward contradiction that multiple public health officials have pointed out directly. Senator Bill Cassidy of Louisiana, a physician and chairman of the Senate health committee, wrote publicly that breaking up combination vaccines would mean children need more shots to achieve the same level of protection, not fewer, and warned the change would likely increase vaccine hesitancy while making children less safe overall, not more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stanley Plotkin, an immunologist and author of a widely used medical reference text on vaccines, was similarly direct, describing the proposed changes as unscientific and warning they would likely result in more disease in the United States than the country has experienced in recent memory. The practical mechanics of the order reinforce that concern: unbundling MMR into three shots administered at separate visits means more total trips to the doctor for parents, which historically correlates with lower overall vaccination completion rates, simply because more required appointments creates more opportunities for a child to miss a dose entirely."
+    },
+    {
+      "type": "heading",
+      "text": "The Timing Matters, Given Where Measles Cases Stand"
+    },
+    {
+      "type": "paragraph",
+      "text": "The order arrives at a genuinely consequential moment for measles specifically. US measles cases for 2026 have already surpassed the total recorded for all of the previous year, and public health experts have separately been reviewing data this year on whether the United States has lost its official measles elimination status, a designation the country had held for 26 years before this recent resurgence. Against that backdrop, medical experts warn that anything making MMR vaccination more logistically difficult or expensive risks worsening an outbreak trend that was already moving in the wrong direction before the order was even signed."
+    },
+    {
+      "type": "heading",
+      "text": "What Actually Changes Right Now, and What Doesn't"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's important to be precise about what this order does and doesn't do immediately. The executive order functions as a policy recommendation and a directive for federal agencies to study implementation, not an instant regulatory change; there are no immediate changes to vaccine requirements or school immunization mandates at the state level as a direct result of the order. It's also not the first time this administration has targeted the MMR vaccine specifically: a CDC vaccine advisory panel had already weakened recommendations last year for the related MMRV shot, which combines MMR protection with a varicella, or chickenpox, vaccine, for children under age 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether private insurers would cover the additional pediatrician visits this approach would require also remains unclear, an open financial question layered on top of the unresolved scientific and manufacturing hurdles. Major medical organizations, including the American Academy of Pediatrics, have said they intend to continue educating patients, families, and clinicians directly on the actual safety, benefits, and evidence behind combined childhood vaccines, regardless of how federal policy on the issue ultimately develops."
+    }
+  ]
+}
+  ],
+  "world": [
+    {
+  "slug": "un-correct-the-map-africa-true-size-resolution-2026",
+  "title": "UN Vote Targets 450-Year-Old Map Distortion; US Casts Sole No",
+  "dek": "UN backs a new world map over the Mercator projection, which shrinks Africa, with 164 nations voting yes and the US standing alone in opposition.",
+  "image": "/images/un-correct-the-map-africa-true-size-resolution-2026.webp",
+  "author": "Sara Wallace",
+  "date": "05/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "The UN General Assembly voted 164-1 to back a resolution urging countries to replace the Mercator map, which shrinks Africa, with a more size-accurate projection.",
+  "tags": [
+    "World",
+    "Africa",
+    "United Nations"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A map most people have seen hanging in a classroom somewhere just became the subject of a formal United Nations vote. On September 4, the UN General Assembly adopted a resolution calling for a shift away from the Mercator projection, the standard world map most of us grew up with, in favor of alternatives that more accurately represent the true relative size of Africa and other regions. The vote passed 164 to 1, with six countries abstaining, and the United States stood as the sole vote against it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The resolution, titled Correct the Map, was introduced by Togo on behalf of the African Group, the 54 African member states at the UN, and backed by the African Union. The six countries that abstained were Serbia, Estonia, Georgia, Lithuania, Moldova, and Ukraine."
+    },
+    {
+      "type": "heading",
+      "text": "Why a 16th-Century Map Is Suddenly a Diplomatic Issue"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mercator projection was created in 1569 by Flemish cartographer Gerardus Mercator, originally designed to help sailors navigate using straight compass lines rather than to accurately depict landmass proportions. That original navigational purpose comes with a well-documented side effect: the projection distorts the size of land masses, and the distortion grows more severe the farther a region sits from the equator. Areas closer to the poles, including North America, Europe, and particularly Greenland, appear dramatically larger relative to their actual size, while regions nearer the equator, Africa and South America especially, appear correspondingly smaller than they really are."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of that distortion is genuinely significant. Africa is the world's second-largest continent by land area, home to more than a billion people, and yet the Mercator projection has spent more than four centuries visually shrinking it relative to regions like Europe and North America. Togo's Foreign Minister Robert Dussey framed the stakes in blunt terms before the vote, telling the General Assembly that maps shape how people understand the world, guiding education, shaping imagination, and influencing collective perception well beyond the realm of pure geography."
+    },
+    {
+      "type": "heading",
+      "text": "What the Resolution Actually Does, and Doesn't, Require"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth being precise about the resolution's actual legal weight: it isn't binding, and it doesn't require any country or institution to formally abandon the Mercator projection. Instead, it encourages UN member states, international organizations, and educational institutions to promote alternative projections that more accurately reflect the true relative size of continents, particularly Africa. The resolution specifically points toward the Equal Earth projection, an equal-area map developed in 2018 by cartographers Tom Patterson, Bernhard Jenny, and Bojan Šavrič, designed to preserve accurate relative proportions between landmasses even though it distorts their shapes somewhat in the process, the opposite trade-off from Mercator's shape-preserving, size-distorting approach."
+    },
+    {
+      "type": "heading",
+      "text": "One Country Has Already Committed to the Switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "France, which co-sponsored the resolution, moved beyond symbolic support ahead of the vote. French Foreign Minister Jean-Noël Barrot announced in a speech at the Sorbonne that his country's foreign ministry would abandon the Mercator projection in favor of map representations better suited to specific uses and more faithful to actual land area, in line with cartographers' and scientists' recommendations. Barrot didn't mince words about the underlying issue, noting that the United States, Russia, and China take on disproportionate visual prominence on Mercator maps compared with Africa, Latin America, or Southeast Asia, and arguing that such distortions eventually take root in how people actually perceive the world, making it time to correct them."
+    },
+    {
+      "type": "heading",
+      "text": "Why the US Voted No"
+    },
+    {
+      "type": "paragraph",
+      "text": "US officials characterized the resolution far more critically than its supporters did, describing it as what one report characterized as a radical ideological project rather than a straightforward cartographic correction. That characterization puts the US at odds with the overwhelming majority of the international community on the specific question of map projections, a genuinely rare diplomatic position for any single country to hold alone against 164 others."
+    },
+    {
+      "type": "heading",
+      "text": "A Campaign With Deeper Roots Than One Vote"
+    },
+    {
+      "type": "paragraph",
+      "text": "The UN resolution caps a campaign that had already gathered institutional momentum before reaching the General Assembly floor. The African Union formally endorsed the Correct the Map campaign earlier this year, with AU Commission Deputy Chairperson Selma Malika Haddadi telling Reuters that the issue extends well beyond cartography alone, describing the Mercator map as having fostered a false impression that Africa is marginal, despite its actual size and population. Haddadi tied the effort directly to the African Union's broader goal of what she described as reclaiming Africa's rightful place on the global stage, part of a wider, ongoing conversation among many nations about addressing the long-term effects of colonialism."
+    },
+    {
+      "type": "paragraph",
+      "text": "The campaign has also drawn support from outside Africa itself. Dorbrene O'Marde, vice chair of the Caribbean Community's Reparations Commission, endorsed the Equal Earth projection as a rejection of what he described as an ideology of power and dominance embedded in the Mercator map's traditional prominence. For its part, Togo has said it intends to update its own school geography materials to reflect the new projection by the end of the year, a concrete first step toward the kind of educational shift the resolution's supporters are hoping spreads well beyond a single country's classrooms."
+    }
+  ]
+},
+    {
+  "slug": "philippines-vp-sara-duterte-bail-arrest-marcos-threats-2026",
+  "title": "Philippines VP Posts Bail Over Threats Against President",
+  "dek": "Sara Duterte was released on bail after a court found probable cause over threats against President Marcos, as the case unfolds alongside her impeachment trial.",
+  "image": "/images/philippines-vp-sara-duterte-bail-arrest-marcos-threats-2026.webp",
+  "author": "Sara Wallace",
+  "date": "05/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "Philippines VP Sara Duterte posted bail after an arrest warrant over alleged threats to have President Marcos assassinated, a case tied to her impeachment trial.",
+  "tags": [
+    "World",
+    "Philippines",
+    "Politics"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Philippine Vice President Sara Duterte posted bail Saturday, a day after a Quezon City court issued a warrant for her arrest over charges that she publicly threatened to have President Ferdinand Marcos Jr. assassinated. Duterte voluntarily appeared at the Quezon City Regional Trial Court, underwent booking, including fingerprinting, and posted 120,000 pesos, roughly $1,900, in bail for each of three counts of grave threats, totaling 360,000 pesos, or about $5,740."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court found probable cause to issue the warrant despite arguments from Duterte's legal team that she shouldn't face criminal charges while actively serving as vice president. Her attorney, Paul Lawrence Lim, said Duterte had no intention of evading the law and would fight the charges."
+    },
+    {
+      "type": "heading",
+      "text": "What Duterte Actually Said, and When"
+    },
+    {
+      "type": "paragraph",
+      "text": "The charges stem from remarks Duterte made during a late-night online news conference in November 2024. She said that if she were killed amid escalating political disputes, she had hired someone to assassinate Marcos, First Lady Liza Marcos, and former House Speaker Martin Romualdez, telling reporters at the time that the threat was not a joke. Duterte, 48, later said her comments had been misconstrued, maintaining she was expressing genuine concern for her own safety rather than actually threatening the president."
+    },
+    {
+      "type": "paragraph",
+      "text": "The remarks came at a moment when Duterte's alliance with Marcos, the two having won the 2022 presidential election together in a landslide, had already deteriorated sharply. She had resigned from her cabinet post as education secretary that June, and by October 2024 was telling reporters her relationship with Marcos had grown so toxic that she sometimes imagined beheading him, remarks that predated the specific assassination-threat comments at the center of the current criminal case."
+    },
+    {
+      "type": "heading",
+      "text": "A Case Now Entangled With Impeachment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The criminal charges aren't Duterte's only active legal jeopardy. The House of Representatives, dominated by Marcos allies, voted overwhelmingly in May to impeach her over a combination of allegations, including unexplained wealth, misuse of confidential state funds, and the November 2024 threats now also underlying her criminal case. That impeachment trial is proceeding separately in the Senate, and a guilty verdict there would remove Duterte from office entirely and permanently bar her from holding political office again, a considerably higher-stakes proceeding than the criminal case alone."
+    },
+    {
+      "type": "heading",
+      "text": "Duterte's Own Account of the Day"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emerging from the courthouse in a black outfit, Duterte consoled supporters gathered outside, including hugging a woman who was crying, as the crowd chanted her name. She held up the court order confirming her release and said her legal team had instructed her to keep a copy on hand at all times. Duterte described feeling unsafe throughout the process, saying she'd faced documented threats and harassment dating back to 2023 and didn't feel secure even surrounded by police, asking journalists to stay close to her on the way to her car specifically because of that concern. She questioned aloud what she described as the administration's real intentions toward her, and her legal team separately suggested the media coverage of her case reflected what they characterized as shamelessness on the part of the Marcos government."
+    },
+    {
+      "type": "heading",
+      "text": "A Political Rift With Deep Roots"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duterte is the daughter of former President Rodrigo Duterte, whose tenure and controversial anti-drug campaign remain under investigation by the International Criminal Court. The current standoff between the Marcos and Duterte political families, once allied closely enough to win a landslide national election together, has become one of the most closely watched power struggles in recent Philippine politics, with the criminal case, the impeachment trial, and the broader public rift between two of the country's most influential political dynasties all now playing out simultaneously and largely in public view."
+    }
+  ]
+},
+    {
+  "slug": "afd-saxony-anhalt-election-win-germany-far-right-2026",
+  "title": "Germany's Far-Right AfD Wins State Election by Landslide",
+  "dek": "Germany's AfD won a record 43.9% in Saxony-Anhalt, raising the prospect of its first far-right state government since World War II.",
+  "image": "/images/afd-saxony-anhalt-election-win-germany-far-right-2026.webp",
+  "author": "Sara Wallace",
+  "date": "07/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "Germany's far-right AfD won a record 43.9% in the Saxony-Anhalt state election, more than doubling its prior result, though forming a government remains unclear.",
+  "tags": [
+    "World",
+    "Germany",
+    "Elections"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Germany's far-right Alternative for Germany party won the Saxony-Anhalt state election on Sunday with 43.9% of the vote, according to preliminary official results, more than doubling the 20.8% it won in the state's last election in 2021. The result, the AfD's strongest ever in a German state election, left the party's Christian Democratic Union rivals, led by Chancellor Friedrich Merz, a distant second at 17.2%, a margin of more than two and a half to one."
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of seats in the 83-member state parliament, the AfD's vote share translated to 39 seats, a gain of 16, while the CDU dropped 25 seats to 15. AfD lead candidate Ulrich Siegmund declared the party had achieved exactly what it set out to do, calling the result historic for the state. AfD co-leader Alice Weidel echoed that framing at the federal level, telling public broadcaster ZDF that Chancellor Merz's conservatives would never win another election and predicting what she called explosive growth for the AfD across eastern Germany and nationally."
+    },
+    {
+      "type": "heading",
+      "text": "A Result Just Short of a Governing Majority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the scale of the win, the AfD fell short of the 42 seats needed for an outright majority in the state parliament, leaving the question of whether it can actually form a government resting on a small, newly formed party. The Bündnis Sahra Wagenknecht, a party that hasn't ruled out working with the AfD, cleared Germany's 5% representation threshold with 5.3% of the vote, winning 5 seats, a result that could prove decisive in determining whether Germany gets its first far-right state government since World War II."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incumbent Saxony-Anhalt state premier Sven Schulze of the CDU, whose party absorbed the bulk of Sunday's losses, acknowledged the result had hit his party hard, telling reporters they'd have to live with it, while stating he did not intend to cooperate with the AfD. He stopped short, however, of giving a clear, unconditional answer on whether the CDU's broader national policy of refusing to govern alongside the AfD, commonly referred to in German politics as the firewall, would hold in Saxony-Anhalt specifically."
+    },
+    {
+      "type": "heading",
+      "text": "Why This Result Matters Beyond One State"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saxony-Anhalt's Sunday vote carries weight well beyond its own borders. Germany rebuilt its postwar democratic institutions with deliberately strong safeguards against political extremism, specifically in response to the Nazi era, and the AfD's breakthrough here is widely read as evidence that those safeguards aren't preventing far-right parties from becoming dominant electoral forces in parts of the country. At the federal level, the AfD is now also polling first nationally, meaning Sunday's result isn't an isolated regional anomaly but part of a broader national trend the party's leadership is actively working to accelerate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The state's own domestic intelligence agency has classified Saxony-Anhalt's AfD branch as a confirmed right-wing extremist organization, a designation the party rejects as politically motivated. That classification hasn't slowed the party's electoral momentum in the state, raising real questions for German political scientists about whether formal extremism classifications by intelligence services can meaningfully check a party's growth once it reaches this level of public support."
+    },
+    {
+      "type": "heading",
+      "text": "The Candidate at the Center of the Result"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulrich Siegmund, the 35-year-old AfD candidate for state premier, has built what reporting has described as a friendly public image around what critics characterize as a radical platform. His campaign has drawn specific scrutiny over how it handles Germany's Nazi past; at AfD campaign events, an emcee has reportedly led supporters in a call-and-response chant splitting his surname into two syllables shouted separately, a pattern the head of Germany's Central Council of Jews has said evokes Nazi-era chanting. The AfD has not directly addressed that specific criticism in reported coverage of the election."
+    },
+    {
+      "type": "heading",
+      "text": "A Test Case With International Attention"
+    },
+    {
+      "type": "paragraph",
+      "text": "The election drew notable attention from outside Germany as well. Ahead of the vote, US Vice President JD Vance met with AfD's leadership and told the Munich Security Conference there was, in his words, no room for firewalls, a direct reference to the mainstream German political consensus against governing with the AfD, a position that put the sitting US vice president publicly at odds with Germany's own governing coalition on a domestic political question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sunday's result also lands as a further blow to Chancellor Merz specifically, whose approval has been declining as his federal coalition struggles to revive growth in Germany's economy, the largest in Europe. Merz did not make a public statement on the results Sunday night, leaving the CDU's national leadership without an immediate public response to a result many German commentators are already describing as a watershed moment, whether or not the AfD ultimately succeeds in actually forming Saxony-Anhalt's next government."
+    }
+  ]
+},
+    {
+  "slug": "us-post-war-middle-east-plan-gaza-syria-lebanon-2026",
+  "title": "US Quietly Drafts Broader Middle East Plan Beyond Gaza",
+  "dek": "Trump administration develops a broader Middle East plan covering Syria, Lebanon and Gulf security, nearly a year after the Gaza ceasefire, with a draft weeks away.",
+  "image": "/images/us-post-war-middle-east-plan-gaza-syria-lebanon-2026.webp",
+  "author": "Sara Wallace",
+  "date": "07/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "The Trump administration is drafting a broader post-war Middle East strategy covering Gaza's next phase, Israel-Syria security, and the Israel-Lebanon deal.",
+  "tags": [
+    "World",
+    "Middle East",
+    "Diplomacy"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Nearly a year after President Trump stood alongside Israeli Prime Minister Benjamin Netanyahu to unveil a 20-point plan ending the Gaza war, his administration is now working on something considerably broader: a strategic framework for the entire region, according to reporting from Axios. A source briefed on the process said the drafting is still underway and will likely take another few weeks to complete, but the scope described so far extends well beyond Gaza's reconstruction alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "The emerging plan reportedly covers three main strands, according to Euronews reporting on the same effort: advancing the next phase of the Gaza deal, which involves the Strip's reconstruction, the disarmament of Hamas, and establishing a transitional administration; pursuing a security agreement between Israel and Syria amid the sweeping political changes there since Bashar al-Assad's government fell in late 2024; and implementing the existing Israel-Lebanon agreement aimed at limiting Hezbollah's military capabilities."
+    },
+    {
+      "type": "heading",
+      "text": "Where the Gaza Deal Actually Stands Right Now"
+    },
+    {
+      "type": "paragraph",
+      "text": "To understand why a broader plan is even being discussed, it helps to know where the original Gaza agreement currently sits. The ceasefire, formally titled the Comprehensive Plan to End the Gaza Conflict, was signed on October 9, 2025, and endorsed by the UN Security Council the following month. Its first phase, centered on the return of hostages and a partial Israeli withdrawal, was effectively completed in January 2026, when Israel confirmed Hamas had returned the remains of the final hostage from the October 7, 2023, attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Board of Peace, the international oversight body Trump chairs under the plan, held its first meeting in Washington in February, with representatives from 27 signatory countries and envoys from nearly 50 nations total in attendance. Trump announced a $10 billion US commitment to the board at that meeting, though funding specifics weren't detailed. Notably, several NATO allies have declined to formally join the board, citing concerns over its charter and, in some cases, discomfort with fellow member states whose leaders face outstanding International Criminal Court arrest warrants."
+    },
+    {
+      "type": "heading",
+      "text": "Why a Regional Strategy Now"
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader regional strategy described in current reporting isn't entirely a break from prior US policy. Successive American administrations since Iran's 1979 revolution have pursued strategies aimed at limiting Tehran's regional influence by deepening ties with Gulf states, so what's being described now as a regional alignment framework builds on a decades-long policy thread rather than starting from scratch. What would be new, according to the reporting, is Washington's effort to formalize that approach into a more structured framework, one built around closer defense and security coordination among regional partners, against what US officials reportedly see as a shifting balance of power in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The timing carries its own complications. Discussions over the plan are expected to be shaped by two upcoming elections: the US midterms this November, and legislative elections in Israel in October. One person familiar with the administration's thinking said officials hope any new Israeli government formed after that October election will be willing and able to cooperate with the broader post-war strategy, though other US officials reportedly stressed that Trump intends to push the plan forward regardless of the Israeli election's outcome, even if it produces a political stalemate there."
+    },
+    {
+      "type": "heading",
+      "text": "The Unresolved Questions Sitting Underneath All of This"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even the narrower Gaza piece of the plan carries significant unresolved questions heading into its more complicated second phase. The command structure and legal authorities for an international stabilization force intended to help secure Gaza remain undefined, and Hamas has publicly said it will resist any effort by that force to disarm it, raising the practical question of whether contributing nations are actually willing to risk direct confrontation over the issue. Israel, for its part, has been reported as hesitant to fully entrust its security needs in the territory to an international body it doesn't directly control."
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, the broader Syria and Lebanon components of the emerging plan remain considerably less defined publicly than the Gaza piece, reflecting how early-stage this wider regional drafting process still is. Whatever shape the final document takes, officials briefed on the process describe it as an attempt to move multiple, historically separate regional crises toward resolution simultaneously, a considerably more ambitious undertaking than the Gaza ceasefire alone, and one whose success will likely depend as much on developments in Israeli and American domestic politics over the coming months as on the plan's substance itself."
+    }
+  ]
+},
+    {
+  "slug": "witkoff-kushner-moscow-kyiv-ukraine-peace-push-2026",
+  "title": "US Envoys Visit Kremlin, Kyiv in Bid to Revive Ukraine Peace Talks",
+  "dek": "US envoys Steve Witkoff and Jared Kushner met Putin in Moscow before traveling to Kyiv to meet Zelenskyy, reviving stalled Ukraine peace talks amid a temporary truce.",
+  "image": "/images/witkoff-kushner-moscow-kyiv-ukraine-peace-push-2026.webp",
+  "author": "Sara Wallace",
+  "date": "07/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "US envoys Witkoff and Kushner met Putin in Moscow, then made their first-ever visit to Kyiv to meet Zelenskyy, reviving peace talks stalled for nearly 8 months.",
+  "tags": [
+    "World",
+    "Ukraine",
+    "Russia"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US special envoys Steve Witkoff and Jared Kushner spent Saturday in the Kremlin and Sunday in Kyiv, a rapid, back-to-back diplomatic sprint aimed at reviving Russia-Ukraine peace negotiations that had been frozen for nearly eight months. The two met Russian President Vladimir Putin in Moscow for roughly three hours on Saturday, then traveled overland, with a stop in Rzeszow, Poland, arriving in the Ukrainian capital Sunday for their first-ever visit to Kyiv since Russia's full-scale invasion began in February 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Moscow meeting included officials from the National Security Council, State Department, and Treasury Department on the American side, alongside senior Russian officials Yuri Ushakov and Kirill Dmitriev on the Kremlin's. It was the first Witkoff-Kushner trip to Moscow since January, and Witkoff's eighth meeting with Putin overall since Trump took office."
+    },
+    {
+      "type": "heading",
+      "text": "A Temporary Pause Made the Trip Possible"
+    },
+    {
+      "type": "paragraph",
+      "text": "Putin said he ordered a three-day halt to Russian attacks on Kyiv specifically to coincide with the American delegation's travel between the two capitals, a pause Russia said it received through official channels ahead of the visit. Putin was careful to stress, however, that the temporary halt didn't represent an agreement on any wider ceasefire, describing the broader situation around Ukraine as difficult while saying Russia remained ready to present its position and continue talks with the United States."
+    },
+    {
+      "type": "heading",
+      "text": "What Each Side Is Actually Saying About the Talks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kremlin aide Yuri Ushakov described Saturday's Moscow talks as substantive, constructive, exceptionally candid, and conducted in a spirit of trust, saying the Russian side had provided detailed assessments of the situation on the ground. He noted the American delegation had put forward several ideas regarding possible paths toward a settlement, though it remains unclear whether the current American proposal differs substantially from previous offers. Putin has recently signaled that Russia's demands regarding Ukrainian territory remain unchanged, terms that continue to be unacceptable to Kyiv."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Kyiv the following day, both sides struck a notably warmer public tone. Kushner, speaking at a press conference alongside Witkoff after their meeting with President Volodymyr Zelenskyy, said he'd learned a lot from the trip without divulging many specifics, while Witkoff described himself as very encouraged by the discussions. Zelenskyy welcomed the envoys personally in central Kyiv and published a video announcing that talks had begun alongside his top security officials and negotiators, calling the American delegation's decision to actually visit the Ukrainian capital deeply significant in itself."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Timing and Symbolism Matter"
+    },
+    {
+      "type": "paragraph",
+      "text": "The renewed diplomatic push comes after a stretch in which the Trump administration's attention, and much of its broader diplomatic bandwidth, had been consumed by the separate conflict involving Iran, a lull that coincided with what US officials describe as an increasingly emboldened Kremlin, even as American officials have grown more worried the Ukraine war could be on the verge of further escalation rather than resolution. Against that backdrop, the fact that Witkoff and Kushner made their first trip to Kyiv at all, not just their choice of what to say once they arrived, is itself being read as a meaningful signal, four and a half years into a war where high-level American engagement with Ukraine's own capital had been notably absent from this particular diplomatic channel."
+    },
+    {
+      "type": "heading",
+      "text": "Skepticism From Moscow's Own Officials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every signal coming out of Russia matched the warmer tone from Kyiv. Russian Deputy Foreign Minister Sergei Ryabkov told state media outlet TASS that the US administration needs to take into account what he described as the realities on the ground in any Ukraine settlement, arguing the battlefield situation was currently changing in ways not favorable to Kyiv, a pointed reminder that Moscow's public position hadn't necessarily softened even as the diplomatic choreography around the talks continued."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither round of talks produced an announced breakthrough or a specific new proposal made public, and the substance of whatever ideas were actually exchanged in Moscow and Kyiv remains largely undisclosed. What both sides have confirmed is that the three-day pause in strikes on Kyiv was tied specifically to enabling this particular round of shuttle diplomacy, leaving open whether the renewed contact translates into sustained negotiations or reverts to the kind of stalled diplomatic freeze that had defined the prior eight months once the envoys' visit concludes."
+    }
+  ]
+},
+    {
+  "slug": "spain-italy-schengen-border-checks-ceuta-migrant-crisis-2026",
+  "title": "EU Allies Clash in Escalating Border Standoff Over Migrants",
+  "dek": "Spain and Italy clash over border checks as the Ceuta migrant crisis grows, with more than 1,300 migrant children stranded in the overcrowded enclave.",
+  "image": "/images/spain-italy-schengen-border-checks-ceuta-migrant-crisis-2026.webp",
+  "author": "Sara Wallace",
+  "date": "07/09/2026",
+  "category": "World",
+  "categorySlug": "world",
+  "metaDescription": "Spain and Italy are locked in a tit-for-tat Schengen border dispute over the Ceuta migrant crisis, with more than 1,300 children still stranded in the enclave.",
+  "tags": [
+    "World",
+    "Europe",
+    "Migration"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Two of the European Union's founding-era allies have spent the past several weeks doing something rare within the bloc: reimposing border checks on each other. Spain's Interior Ministry announced passport, nationality, and visa checks on travelers arriving from Italy, running from midnight through September 7, citing what it described as persistent irregular migration pressure originating from Italy, a direct countermeasure to checks Rome had already placed on arrivals from Spain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dispute traces back to late July, when more than 80,000 migrants entered the Spanish North African enclave of Ceuta from Morocco in a single day, the largest day of irregular arrivals recorded in European Union history. Italian Prime Minister Giorgia Meloni's government responded on August 1 by suspending Schengen's passport-free travel arrangement for arrivals from Spain, reintroducing checks specifically targeting non-EU citizens on flights and maritime routes between the two countries."
+    },
+    {
+      "type": "heading",
+      "text": "A Fight Over Facts as Much as Policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spanish officials have pushed back hard on the premise behind Italy's checks, arguing the situation doesn't actually threaten the wider Schengen area at all. Foreign Minister José Manuel Albares said the vast majority of people who entered Ceuta had already returned to Morocco, and stressed that traveling from the enclave to mainland Spain requires passing through rigorous police controls, making onward movement into the rest of the EU effectively impossible without proper processing. Prime Minister Pedro Sánchez went further on social media, writing that solidarity and empathy are optional but respect for European treaties and data is not, and citing Frontex figures showing 478,000 people entered Italy illegally between 2021 and 2026, more than double the number that entered Spain over the same period, in an apparent rebuttal to Italy's framing of Spain as the source of the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "The EU's own migration commissioner, Magnus Brunner, offered a similar assessment, writing that Spanish officials had confirmed practically all of the migrants who entered Ceuta had returned, and that not a single person had crossed onward to mainland EU territory. Italy has continued extending its checks regardless, most recently for a further 15-day period, with Rome citing continued concern over the underlying migration pressure rather than backing down in response to Madrid's pushback."
+    },
+    {
+      "type": "heading",
+      "text": "The Practical Toll of the Standoff"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the diplomatic sparring, the checks have carried a real logistical cost. Spanish authorities have processed more than 1,000 flights carrying over 12,000 third-country passengers arriving from Italy, involving roughly 1,800 officials, the kind of sustained administrative burden that comes with reintroducing border controls between countries that dismantled them decades ago specifically to enable frictionless EU travel."
+    },
+    {
+      "type": "heading",
+      "text": "The Humanitarian Situation Getting Lost in the Diplomatic Fight"
+    },
+    {
+      "type": "paragraph",
+      "text": "While Madrid and Rome trade border restrictions, a genuine humanitarian crisis remains unresolved inside Ceuta itself. Spain's Youth Minister Sira Rego said at least 1,342 children remain among the asylum seekers and migrants still in the enclave, hundreds of them unaccompanied, against a facility with theoretical capacity for only around 90 people. Rego acknowledged what she called painful images of children sleeping on Ceuta's streets, and said two schools had already been converted into temporary shelters while authorities evaluate additional locations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose Miguel Morales, head of the migrant rights group Federación Sur Acoge, said some of the children involved are under 14 and have already experienced beatings and assault, underscoring the stakes of the capacity shortfall well beyond simple overcrowding. The Spanish government approved €25 million to support unaccompanied minors in the territory, though the plan to eventually transfer children to mainland Spain has become its own domestic political flashpoint, with the far-right Vox party publicly opposing aid for migrant and asylum-seeking children."
+    },
+    {
+      "type": "heading",
+      "text": "A Relationship Strained Beyond Border Checks"
+    },
+    {
+      "type": "paragraph",
+      "text": "The dispute has spilled into other corners of the Spain-Italy relationship as well. Politicians within Spain's governing coalition have called for Spain to withdraw from co-hosting the 2030 FIFA World Cup with Morocco in protest over the crisis, with one lawmaker accusing Morocco of using desperate people to serve its own geostrategic interests. Whether the tit-for-tat border checks ease once the current review periods lapse, or whether the underlying dispute over responsibility for the Ceuta arrivals continues generating fresh diplomatic friction between two of the EU's larger member states, remains an open question as September continues."
+    }
+  ]
+}
+  ],
+  "us": [
+    {
+  "slug": "amazon-cargo-plane-crash-miami-airport-2026",
+  "title": "Five Dead After Amazon Cargo Plane Crashes Near Miami Airport",
+  "dek": "Amazon Cargo Boeing 767 crashes after runway overrun near Miami, striking vehicles and sparking a fire as investigators probe why the plane couldn't stop.",
+  "image": "/images/amazon-cargo-plane-crash-miami-airport-2026.webp",
+  "author": "Michael Chen",
+  "date": "07/09/2026",
+  "category": "U.S.",
+  "categorySlug": "us",
+  "metaDescription": "An Amazon-branded cargo plane crashed after overrunning the runway at Miami International Airport Sunday, killing five people and injuring five others.",
+  "tags": [
+    "U.S.",
+    "Florida",
+    "Aviation"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Five people were killed and five others injured Sunday afternoon when an Amazon-branded cargo plane overran the runway while landing at Miami International Airport, struck multiple vehicles, and caught fire. The Boeing 767-300, operating as 21 Air Flight 7598, had departed from San Juan, Puerto Rico, and was landing on Runway 30 at approximately 1:58 p.m. Eastern time when it failed to stop, according to the Federal Aviation Administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miami-Dade County Sheriff Rosie Cordero-Stutz said the aircraft came to rest in a field adjacent to the airport after striking several vehicles near the 2100 block of Northwest 42nd Avenue. Video posted to social media showed the plane off the runway with its tail resting over a fence line and thick black smoke rising from the wreckage. More than 60 units from Miami-Dade Fire Rescue responded to the scene."
+    },
+    {
+      "type": "heading",
+      "text": "What's Known About the Victims So Far"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miami-Dade Fire Rescue Chief Raied Jadallah said five people were taken to hospitals following the crash, three in critical condition and transported to a local trauma center, with two others hospitalized with less severe injuries. Some victims had to be extricated from vehicles struck by the aircraft, according to officials. As of Sunday night, authorities had not publicly released the identities of those killed or injured."
+    },
+    {
+      "type": "heading",
+      "text": "How the Companies Involved Are Responding"
+    },
+    {
+      "type": "paragraph",
+      "text": "The aircraft was operated by 21 Air, a North Carolina-based all-cargo carrier that flies Boeing 767s for companies including Amazon and DHL, rather than by Amazon directly. Amazon spokesperson Kelly Nantel said the company was heartbroken to learn that five people lost their lives in the incident, extending sympathy to the families, loved ones, and all those affected, and said Amazon would cooperate fully with the investigation. 21 Air CEO Keith Winters echoed that response, saying the crash had left the company devastated and that its immediate priority was supporting those affected while assisting investigators."
+    },
+    {
+      "type": "heading",
+      "text": "The Airport's Operations in the Hours Afterward"
+    },
+    {
+      "type": "paragraph",
+      "text": "The FAA's Air Traffic Control System Command Center issued a ground stop at Miami International Airport around 2:30 p.m., roughly a half hour after the crash, halting incoming flights while emergency crews worked the scene. The ground stop lasted about three hours before being lifted, and two of the airport's runways had reopened by Sunday night, according to Miami-Dade Aviation Department communications director Greg Chin. Even after operations resumed, the disruption rippled through the rest of the evening: roughly 250 flights were delayed, and the average delay for flights arriving into the airport stretched to about six and a half hours by Sunday night, according to flight-tracking service FlightAware."
+    },
+    {
+      "type": "heading",
+      "text": "What Investigators Still Need to Determine"
+    },
+    {
+      "type": "paragraph",
+      "text": "As of Sunday night, it remained unclear why the aircraft was unable to stop before running off the runway. Federal investigators, expected to include the National Transportation Safety Board alongside the FAA, will examine the aircraft's approach, braking systems, runway conditions, and pilot actions in the moments before the crash as part of the standard process for determining a probable cause, a process that in similar cargo aircraft incidents has historically taken months to complete. For now, both Amazon and 21 Air have said their focus remains on supporting the people affected and cooperating fully with that investigation as it gets underway."
+    }
+  ]
+},
+    {
+  "slug": "maryland-supreme-court-redistricting-ballot-measure-2026",
+  "title": "Maryland Court Clears Vote to Redraw State House District Map",
+  "dek": "Maryland's Supreme Court cleared a Democratic-backed redistricting amendment for the November ballot, but ordered revised wording after courts found it misleading.",
+  "image": "/images/maryland-supreme-court-redistricting-ballot-measure-2026.webp",
+  "author": "Michael Chen",
+  "date": "07/09/2026",
+  "category": "U.S.",
+  "categorySlug": "us",
+  "metaDescription": "Maryland's Supreme Court ruled a Democratic redistricting ballot measure can go before voters in November, reversing lower courts that had blocked it.",
+  "tags": [
+    "U.S.",
+    "Politics",
+    "Maryland"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Maryland voters will get the final say in November on a constitutional amendment that could reshape how the state draws its congressional districts, after the Maryland Supreme Court ruled Thursday evening that the measure can appear on the ballot. The decision, handed down as an end-of-day deadline to finalize ballots for printing approached, reversed two lower courts in Anne Arundel and Dorchester counties that had sided with Republican challengers and blocked the question entirely."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed amendment, known as Question 3, would allow Maryland lawmakers to redraw legislative and congressional districts without being bound by the state's current, stringent compactness standards, and would permit redistricting outside the normal once-a-decade census cycle. Importantly, the measure wouldn't change any voting districts for this year's midterm elections; if approved by voters, it would instead clear the way for Democratic lawmakers to redraw Maryland's congressional map ahead of the 2028 elections."
+    },
+    {
+      "type": "heading",
+      "text": "A Win With a Catch: The Ballot Language Has to Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ruling wasn't a clean, unqualified victory for the Democratic lawmakers who pushed the amendment through in a two-day special session last month. In an eight-page order, Chief Justice Matthew J. Fader, writing for the majority of a divided high court, agreed with the lower courts that the ballot question as originally written by the Maryland General Assembly was misleading and therefore violated due process requirements. Rather than strike the question from the ballot entirely, though, the court ordered the State Board of Elections to rewrite it, a remedy Fader's opinion described as appropriately respectful of the legislature's constitutional authority to propose amendments to voters in the first place."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court specifically directed that the rewritten question clarify that Maryland's state constitution doesn't provide applicable criteria for the boundaries of a congressional districting plan, and that lawmakers make clear the constitution's existing compactness standards apply only to Maryland General Assembly districts, not congressional ones."
+    },
+    {
+      "type": "heading",
+      "text": "The Political Stakes Behind the Ruling"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amendment is part of a broader, nationwide wave of redistricting fights that erupted in 2025 and 2026, after President Trump pushed Republican-led states to redraw congressional maps mid-decade for partisan advantage, prompting Democratic-led states to consider matching countermoves. Democrats currently hold seven of Maryland's eight US House seats, and a new map drawn under the amendment's looser rules could, according to reporting on the plan, give Democrats a shot at winning all eight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maryland Governor Wes Moore, a vocal supporter of joining the broader redistricting fight, called the court's decision a massive victory, saying in a statement that the ruling rightfully guaranteed the amendment would appear on the general election ballot in November. Nicole Beus Harris, chair of the Maryland Republican Party, offered a starkly different characterization, expressing disappointment that the court had allowed what she described as a reworded gerrymandering amendment to move forward."
+    },
+    {
+      "type": "heading",
+      "text": "One of Two Redistricting Wins for Democrats That Same Day"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maryland's ruling wasn't an isolated development. Just moments before the Maryland Supreme Court's decision came down, the Missouri Supreme Court separately greenlit a citizen-led redistricting referendum that will give Missouri voters the final say over a Republican-drawn congressional map in that state, giving Democratic-aligned redistricting efforts two significant court victories within the same day. The outcomes stood in contrast to an earlier setback in Virginia, where that state's Supreme Court struck down a separate Democratic redistricting effort in May, ruling the state's legislature had violated procedural requirements in placing its own amendment on the ballot."
+    },
+    {
+      "type": "heading",
+      "text": "What Happens Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the court's order in hand, the State Board of Elections now has to finalize the amendment's rewritten language in time for November ballots, a tight turnaround given how close Thursday's ruling came to the printing deadline. Assuming that rewrite is completed successfully, Maryland voters will ultimately decide whether to hand state lawmakers the expanded redistricting authority the amendment proposes, a decision that, combined with similar fights playing out in other states, will help determine how competitive the battle for the US House looks heading into the 2028 elections."
+    }
+  ]
+},
     {
       "slug": "technology-story-3",
       "title": "Placeholder headline for Technology story 3",
@@ -1061,145 +1293,137 @@
   ],
   "sports": [
     {
-      "slug": "sports-story-1",
-      "title": "Placeholder headline for Sports story 1",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "James Carter",
-      "date": "14/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+  "slug": "american-tennis-stars-us-open-quarterfinals-2026",
+  "title": "US Tennis Stars Reach US Open Quarterfinals in Historic Run",
+  "dek": "A record U.S. tennis run at the 2026 US Open continues as Shelton, Pegula and Tiafoe lead America's deepest quarterfinal push in more than 20 years.",
+  "image": "/images/american-tennis-stars-us-open-quarterfinals-2026.webp",
+  "author": "James Carter",
+  "date": "07/09/2026",
+  "category": "Sports",
+  "categorySlug": "sports",
+  "tags": ["Sports", "Tennis", "US Open"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "It has been years since American tennis fans had this much to cheer about on their own turf. Heading into the second week of the 2026 US Open, ten U.S. players have punched their tickets to the round of 16, and five American men reached the fourth round for the first time since 1995. For a sport that has spent much of the last two decades searching for its next homegrown star, this year's tournament at the Billie Jean King National Tennis Center feels like a turning point."
     },
     {
-      "slug": "sports-story-2",
-      "title": "Placeholder headline for Sports story 2",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "James Carter",
-      "date": "13/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The men's draw has been especially chaotic, with six of the top ten seeds already eliminated and several matches decided by the finest of margins. Through it all, the American contingent has kept finding a way to survive. Frances Tiafoe extended his unbeaten streak inside Louis Armstrong Stadium with a gritty three-set win over former finalist Daniil Medvedev, while eighth-seeded Ben Shelton cruised past Stefanos Tsitsipas to reach the quarterfinals for the second time in his career, both trips coming in New York."
     },
     {
-      "slug": "sports-story-3",
-      "title": "Placeholder headline for Sports story 3",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "James Carter",
-      "date": "12/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "heading",
+      "text": "Pegula and Shelton Set the Pace"
     },
     {
-      "slug": "sports-story-4",
-      "title": "Placeholder headline for Sports story 4",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "James Carter",
-      "date": "11/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "On the women's side, third-seeded Jessica Pegula has looked just as composed, dropping only a handful of games on her way past Sorana Cirstea to reach her second straight Grand Slam quarterfinal. She's now chasing a return trip to the final after coming up short in 2024. Waiting for her next is fellow American Emma Navarro, a former US Open semifinalist who dispatched Anna Kalinskaya in straight sets, setting up an all-American showdown with plenty on the line."
     },
+    {
+      "type": "paragraph",
+      "text": "For Shelton, the road ahead only gets tougher, with defending champion Carlos Alcaraz looming in the next round. Still, the 23-year-old has looked like a more complete player than the one who reached his first major final on this same court in 2023, and he's not shy about saying he believes this is the year an American man finally ends the tournament's long title drought. With home crowds behind them and a bracket that has already chewed up half the seeds, the US Open's second week promises to be one of the most compelling in recent memory."
+    }
+  ]
+},
+   {
+  "slug": "nfl-season-opener-seahawks-patriots-super-bowl-rematch-2026",
+  "title": "NFL Season Opens With Seahawks-Patriots Super Bowl LX Rematch",
+  "dek": "Defending champion Seahawks host Drake Maye and the Patriots in a Super Bowl LX rematch at Lumen Field, reopening February's title game rivalry.",
+  "image": "/images/nfl-season-opener-seahawks-patriots-super-bowl-rematch-2026.webp",
+  "author": "James Carter",
+  "date": "07/09/2026",
+  "category": "Sports",
+  "categorySlug": "sports",
+  "tags": ["Sports", "NFL", "Seahawks", "Patriots"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Football is back, and the NFL couldn't have scripted a better way to bring it. The 2026 season opens Wednesday night at Lumen Field, where the Seattle Seahawks will raise their Super Bowl LX banner and immediately turn around to face the very team they beat to get it: the New England Patriots. It's only the third time in league history that the previous season's Super Bowl teams have met again in Week 1, and just the second time it's happened in the opener itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kickoff is set for 8:20 p.m. ET, with NBC's Football Night in America starting the coverage an hour earlier. It's a Wednesday game rather than the usual Thursday slot, cleared to make room for the league's first-ever regular-season game in Melbourne, Australia, which follows the next night. History leans toward the champs: since 2004, teams that opened the season as defending Super Bowl winners have gone 16-5 in that game."
+    },
+    {
+      "type": "heading",
+      "text": "Darnold and Maye Renew Their Rivalry"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sam Darnold's remarkable turnaround season ended with a Super Bowl ring in Santa Clara back in February, and he'll get a shot to prove it wasn't a one-off in front of Seattle's home crowd. On the other sideline, Drake Maye enters his second full season as New England's starter looking sharper and more assured than the quarterback who struggled in that Super Bowl loss. Both teams built their identities on physical, disciplined defense, so points may be hard to come by early, with the turnover battle likely deciding who leaves Lumen Field happy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the opener, this Week 1 slate is loaded with early statement games, including the Buccaneers at the Bengals and the Ravens traveling to Indianapolis on Sunday. But all eyes start with Seattle and New England, a fitting reminder that the road to Super Bowl LXI in February runs right back through the two teams that played for the last one."
+    }
+  ]
+},
+    {
+  "slug": "mlb-playoff-race-september-2026-wild-card-chase",
+  "title": "MLB Playoff Races Tighten as September Sprint Toward October Begins",
+  "dek": "MLB playoff races heat up with three division titles undecided and seven AL teams battling for Wild Card spots, all still below .500 with October approaching.",
+  "image": "/images/mlb-playoff-race-september-2026-wild-card-chase.webp",
+  "author": "James Carter",
+  "date": "07/09/2026",
+  "category": "Sports",
+  "categorySlug": "sports",
+  "tags": ["Sports", "MLB", "Baseball", "Playoffs"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The calendar has flipped to September, and for most of Major League Baseball, that means one thing: crunch time. With roughly three weeks left before the regular season wraps up on September 27, the majority of the league is still fighting for its postseason life. Twenty-two of the 30 teams entered the stretch run either in a playoff spot or within striking distance of one, setting up one of the more chaotic finishes in recent memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The National League Central and West appear all but settled, with the Milwaukee Brewers and Los Angeles Dodgers cruising toward division titles. But nearly everything else remains a fight. In the NL East, Atlanta has opened a comfortable cushion over Philadelphia, though the Phillies have clawed back into postseason position after a rough start to the year and are now locked in a tight battle with the Chicago Cubs for the top NL Wild Card seed."
+    },
+    {
+      "type": "heading",
+      "text": "The AL Wild Card Chaos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nowhere is the drama thicker than the American League Wild Card race, where seven teams entered the holiday weekend separated by just a handful of games, and remarkably, not one of them owned a winning record. Tampa Bay has managed to hold a modest division lead in the AL East over a resurgent Yankees club, while the White Sox and Astros are fending off the Guardians, Rangers and Mariners in their own division fights. Every series down the stretch carries added weight, with tiebreaker scenarios already shaping how front offices are approaching their final rotations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The format hasn't made things any easier on the favorites, either. Since Major League Baseball introduced the best-of-three Wild Card round in 2022, the lower-seeded road team has actually won more often than not, a reminder that a hot week in late September can matter just as much as a great April. Whichever clubs stumble into October as the third seed in their league will get no home-field cushion and little margin for error, when the postseason field is finalized on September 27 and Wild Card Series play begins two days later."
+    }
+  ]
+},
+    {
+  "slug": "ohio-state-texas-week-2-showdown-preview-2026",
+  "title": "No. 1 Ohio State Faces No. 5 Texas as Underdogs in Austin",
+  "dek": "No. 1 Ohio State faces No. 5 Texas in Austin as underdogs, with both teams coming off big wins and College GameDay on hand for the marquee matchup.",
+  "image": "/images/ohio-state-texas-week-2-showdown-preview-2026.webp",
+  "author": "James Carter",
+  "date": "07/09/2026",
+  "category": "Sports",
+  "categorySlug": "sports",
+  "tags": ["Sports", "College Football", "Ohio State", "Texas"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "One week into the college football season, the sport is already serving up its biggest game of September. Defending national champion Ohio State travels to Austin on Saturday night to face No. 5 Texas, a rematch of last year's College Football Playoff semifinal and the third straight season these two programs have squared off. Kickoff at DKR-Texas Memorial Stadium is set for 6:30 p.m. CT on ABC, with ESPN's College GameDay broadcasting live from campus all morning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both teams arrive having handled their openers with ease. Ohio State throttled Ball State 56-3 behind a huge night from receiver Jeremiah Smith, who caught eight passes for 151 yards and two touchdowns despite playing only in the first half, while quarterback Julian Sayin was nearly flawless, completing 21 of 25 passes for 320 yards and four total touchdowns. Texas answered with an even more lopsided 59-7 rout of Texas State, as quarterback Arch Manning bounced back from a rough start against the Buckeyes a year ago by throwing for 305 yards and four scores."
+    },
+    {
+      "type": "heading",
+      "text": "A Slim Line for a Program on the Rise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite carrying the No. 1 ranking and the reigning championship, Ohio State opened as a slight road underdog, with oddsmakers settling on Texas by 1.5 points after the line briefly touched 2.5. It's a testament to how quickly Manning and the Longhorns have built momentum at home, where Texas has now won its last two openers by a combined 47 points. Ohio State still holds the edge in the all-time series at 3-2, including a win over Texas in the Cotton Bowl semifinal last January, but Saturday marks the Buckeyes' first true road test of the season."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a Texas program that has now hosted GameDay for three consecutive marquee matchups, this is the kind of stage the Longhorns have been building toward. A win would validate the preseason hype around Manning and vault Texas into the sport's clear top tier; a loss would simply reset the conversation heading into October. Either way, whichever team leaves Austin with the win will immediately become the favorite to represent their side of the bracket when the Playoff picture starts coming into focus later this fall."
+    }
+  ]
+},
     {
       "slug": "sports-story-5",
       "title": "Placeholder headline for Sports story 5",

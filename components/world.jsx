@@ -4,7 +4,7 @@ import Link from "next/link";
 import articleData from "../public/data/article.json";
 import authorData from "../public/data/author.json";
 
-const CATEGORY = "politics";
+const CATEGORY = "world";
 
 const parseDate = (dateStr) => {
   const [day, month, year] = dateStr.split("/");
@@ -16,9 +16,9 @@ function bylineFor(authorName) {
   return location ? `${authorName} | ${location.toUpperCase()}` : authorName;
 }
 
-// Pulls all Politics articles (newest first), each used exactly once, and
+// Pulls all World articles (newest first), each used exactly once, and
 // splits them into two columns of 3 to match the layout.
-function getPoliticsStories() {
+function getWorldStories() {
   const posts = [...(articleData[CATEGORY] || [])].sort(
     (a, b) => parseDate(b.date) - parseDate(a.date)
   );
@@ -98,13 +98,13 @@ function AdBox() {
 }
 
 export default function MoreNews() {
-  const { columnOne, columnTwo } = getPoliticsStories();
+  const { columnOne, columnTwo } = getWorldStories();
 
   return (
     <section className="max-w-6xl mx-auto px-4 md:px-8 py-8">
       <div className="border-t-4 border-gray-900 pt-4 mb-6">
         <h2 className="font-serif font-bold text-3xl text-black-800 border-b border-gray-900 pb-2">
-          POLITICS
+          WORLD
         </h2>
       </div>
 

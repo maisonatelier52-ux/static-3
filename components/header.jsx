@@ -9,10 +9,10 @@ import articleData from "../public/data/article.json";
 const CATEGORIES = [
   { name: "Home", href: "/" },
   { name: "Business", href: "/business" },
-  { name: "Lifestyle", href: "/lifestyle" },
-  { name: "Politics", href: "/politics" },
-  { name: "Technology", href: "/technology" },
   { name: "Health", href: "/health" },
+  { name: "World", href: "/world" },
+  { name: "U.S.", href: "/us" },
+  { name: "Finance", href: "/finance" },
   { name: "Sports", href: "/sports" },
 ];
 

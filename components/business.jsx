@@ -63,7 +63,7 @@ export default function TopStories() {
             Placeholder caption. PHOTO CREDIT
           </p>
           <Link href={lead.href} className="block">
-            <h2 className="font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors text-2xl md:text-3xl">
+            <h2 className="font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors text-2xl md:text-4xl">
               {lead.headline}
             </h2>
           </Link>
@@ -133,14 +133,14 @@ export default function TopStories() {
               Placeholder caption. PHOTO CREDIT
             </p>
             <Link href={right.href} className="block">
-              <h2 className="font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors text-lg md:text-xl">
+              <h2 className="font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors text-lg md:text-3xl">
                 {right.headline}
               </h2>
             </Link>
-            <p className="text-xs font-bold uppercase tracking-wide text-gray-500 mt-2">
+            <p className="text-xs font-bold uppercase tracking-wide text-gray-500 mt-4">
               {right.byline}
             </p>
-            <p className="text-sm text-gray-700 leading-relaxed mt-2">
+            <p className="text-sm text-gray-700 leading-relaxed mt-4">
               {right.dek}
             </p>
           </div>

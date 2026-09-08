@@ -939,357 +939,416 @@
   ]
 },
     {
-      "slug": "technology-story-3",
-      "title": "Placeholder headline for Technology story 3",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "Michael Chen",
-      "date": "24/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "technology-story-4",
-      "title": "Placeholder headline for Technology story 4",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "Michael Chen",
-      "date": "23/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "technology-story-5",
-      "title": "Placeholder headline for Technology story 5",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Michael Chen",
-      "date": "22/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "technology-story-6",
-      "title": "Placeholder headline for Technology story 6",
-      "dek": "A short summary describing what this technology article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Michael Chen",
-      "date": "21/07/2026",
-      "category": "Technology",
-      "categorySlug": "technology",
-      "tags": [
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Technology story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    }
+  "slug": "trump-triumphal-arch-groundbreaking-approval-2026",
+  "title": "Trump's 250-Foot DC Arch Is Breaking Ground Before It Has Final Approval",
+  "dek": "Interior Secretary Doug Burgum says excavation for the Great Triumphal Arch starts within two weeks, even as the project awaits final sign-off from the National Capital Planning Commission and fights a federal lawsuit from veterans and preservationists.",
+  "image": "/images/trump-triumphal-arch-groundbreaking-approval-2026.webp",
+  "author": "Michael Chen",
+  "date": "07/09/2026",
+  "category": "U.S.",
+  "categorySlug": "us",
+  "metaDescription": "Excavation on Trump's 250-foot triumphal arch near Arlington Cemetery begins within two weeks, even though the project still lacks final federal approval.",
+  "tags": [
+    "U.S.",
+    "Washington DC",
+    "Architecture"
   ],
-  "lifestyle": [
+  "body": [
     {
-      "slug": "lifestyle-story-1",
-      "title": "Placeholder headline for Lifestyle story 1",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Emma Brooks",
-      "date": "20/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 1, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Interior Secretary Doug Burgum announced Thursday that excavation work will begin within the next two weeks on President Trump's long-planned Great Triumphal Arch, a 250-foot monument set to rise on Columbia Island between the Lincoln Memorial and Arlington National Cemetery. In a post on X, Burgum wrote that after a very long wait, over 125 years, the administration was finally preparing to start the excavation work necessary for the arch, adding that it would be one of the great pieces of American architecture, befitting what he called the most powerful capital in the world."
     },
     {
-      "slug": "lifestyle-story-2",
-      "title": "Placeholder headline for Lifestyle story 2",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Emma Brooks",
-      "date": "19/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 2, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The announcement is the latest, and most concrete, step in a project Trump has personally championed and shown off to donors using three-dimensional models displayed at White House events. According to reporting, Trump has said he was given a choice of small, medium, and large versions of the arch, and decided the large one looks by far the best."
     },
     {
-      "slug": "lifestyle-story-3",
-      "title": "Placeholder headline for Lifestyle story 3",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img3.webp",
-      "author": "Emma Brooks",
-      "date": "18/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 3, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "heading",
+      "text": "A Groundbreaking Ahead of the Actual Approval"
     },
     {
-      "slug": "lifestyle-story-4",
-      "title": "Placeholder headline for Lifestyle story 4",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img4.webp",
-      "author": "Emma Brooks",
-      "date": "17/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 4, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What makes the timing genuinely notable is that the arch still lacks final federal sign-off. The National Capital Planning Commission granted only preliminary approval for the site and plans back in July, with additional issues still to be addressed before a final review; the commission isn't scheduled to take the matter up again until its October 1 meeting at the earliest. A federally mandated Section 106 review, examining the project's impact on historic and cultural sites, along with a separate aviation safety review, also remain outstanding."
     },
     {
-      "slug": "lifestyle-story-5",
-      "title": "Placeholder headline for Lifestyle story 5",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "Emma Brooks",
-      "date": "16/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Government lawyers appeared to walk back some of the groundbreaking framing shortly after Burgum's announcement, stating in a court filing that what's currently planned is archaeological survey work needed to ensure compliance with historic preservation statutes, rather than full excavation for the monument itself. The Interior Department did not respond to press questions about the actual scope of the planned work."
     },
     {
-      "slug": "lifestyle-story-6",
-      "title": "Placeholder headline for Lifestyle story 6",
-      "dek": "A short summary describing what this lifestyle article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "Emma Brooks",
-      "date": "15/07/2026",
-      "category": "Lifestyle",
-      "categorySlug": "lifestyle",
-      "tags": [
-        "Lifestyle"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Lifestyle story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
+      "type": "heading",
+      "text": "The Legal Fight Already Underway"
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement immediately drew a response in federal court, where opponents are seeking an emergency injunction to halt the work. Among those suing are veterans who argue the arch would disrupt the sightline between the Lincoln Memorial and both Arlington National Cemetery and Arlington House, the memorial to Robert E. Lee, alongside an architectural historian. Their central legal argument is that the Trump administration lacks the congressional authorization required to build a monument of this scale in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The administration has countered that no additional congressional approval is needed, pointing to a 1925 plan Congress authorized for columns near the proposed arch site, structures that were, notably, never actually built. The Justice Department has asked the court to dismiss the case entirely. A National Park Service review has separately acknowledged the project could adversely affect historic sightlines around several prominent DC landmarks, an assessment that lends some institutional weight to the opponents' core concern even as the legal fight over authorization plays out."
+    },
+    {
+      "type": "heading",
+      "text": "What the Arch Would Actually Look Like, and Cost"
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed structure, formally called the Great Triumphal Arch and Military Observation Deck, would stand 250 feet from base to the top of its statuary, more than double the height of the Lincoln Memorial and taller than its clear architectural inspiration, the Arc de Triomphe in Paris. The Commission of Fine Arts, composed of Trump appointees, approved the architectural design in May, notably rejecting its own suggestion that a golden winged angel and two eagles be removed from the top of the structure to reduce its overall height."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cost estimates for the project run as high as $100 million, according to Axios reporting, though the administration hasn't released an official figure. The National Endowment for the Humanities has already set aside $15 million toward the project, and the administration has awarded a $500,000 contract to an Oregon-based firm for environmental testing at the site. The National Park Service has said construction, once it formally begins, is expected to run an intense 20-hour-a-day, year-round schedule and take two to three years to complete, timing that would put the arch's completion near the end of Trump's second term."
+    },
+    {
+      "type": "heading",
+      "text": "Part of a Broader Push to Reshape the Capital"
+    },
+    {
+      "type": "paragraph",
+      "text": "The arch isn't an isolated undertaking. It's one piece of a broader effort by the Trump administration to leave a lasting architectural mark on Washington, alongside the ongoing White House ballroom construction, which the Supreme Court recently allowed to continue, changes to the Lincoln Memorial Reflecting Pool, and the contested renaming and restructuring of the Kennedy Center. Historic preservation experts have criticized the administration's approach across several of these projects as moving too quickly through required review processes, including through efforts to weaken existing protections for historic sites more broadly, criticism the administration disputes."
+    },
+    {
+      "type": "heading",
+      "text": "What Happens Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, the practical outcome hinges on two separate, ongoing processes moving in parallel: the federal court's decision on whether to grant an emergency injunction blocking the planned excavation, and the National Capital Planning Commission's eventual final review, not expected before October at the earliest. Whether ground is broken in the coming weeks as Burgum announced, or paused by a court order first, the underlying dispute, over whether a project of this scale can move forward without full federal approval and congressional sign-off, remains legally unresolved even as the excavation timeline moves ahead."
     }
+  ]
+},
+    {
+  "slug": "grand-canyon-phantom-ranch-flooding-2026",
+  "title": "Flash Floods Just Hit the Grand Canyon's Second Historic Lodge in Just Over a Year",
+  "dek": "Floodwaters swamped the century-old Phantom Ranch at the bottom of the canyon on August 29, killing two people and leaving a hiker missing, striking below the same burn scar left by the wildfire that destroyed the park's North Rim lodge in 2025.",
+  "image": "/images/grand-canyon-phantom-ranch-flooding-2026.webp",
+  "author": "Michael Chen",
+  "date": "08/09/2026",
+  "category": "U.S.",
+  "categorySlug": "us",
+  "metaDescription": "Flash flooding swamped Grand Canyon's historic Phantom Ranch on August 29, killing two people, the park's second historic structure hit by disaster in a year.",
+  "tags": [
+    "U.S.",
+    "Arizona",
+    "National Parks"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Muddy, fast-moving floodwaters tore through Phantom Ranch on August 29, swamping the 1920s lodge that sits at the bottom of the Grand Canyon and offers hikers one of the only chances anywhere to spend the night beneath the canyon's rim. Two people were killed in the flooding, and another hiker remained missing as of early September, according to the National Park Service. Sixty-two people were evacuated from the nearby campground and the lower North Kaibab Trail in the aftermath."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disaster marks the second time in just over a year that a historic structure at the Grand Canyon has been struck by natural disaster. In July 2025, a destructive wildfire tore through dense pine forest on the canyon's northern edge, destroying the historic Grand Canyon Lodge, the North Rim's only lodging. The National Weather Service said the late-August flash flooding near Phantom Ranch struck in the drainage below the burn scar that wildfire left behind, a connection that speaks to how one disaster can set the stage for the next."
+    },
+    {
+      "type": "heading",
+      "text": "A Closure That May Have Limited the Toll"
+    },
+    {
+      "type": "paragraph",
+      "text": "One detail from the disaster stands out as a genuine, if grim, stroke of fortune. Phantom Ranch's hiker dormitories had been closed since early 2020 due to the COVID-19 pandemic and subsequent infrastructure projects, with one men's dorm and one women's dorm scheduled to reopen September 1, just days after the flood hit. Had those bunkhouses been open and full at the time, park officials and reporting on the incident suggest considerably more hikers could have been caught in the rising water."
+    },
+    {
+      "type": "heading",
+      "text": "Assessing the Damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "The National Park Service is still cleaning up the campground and assessing damage to facilities and infrastructure across the area. The Interior Department told CNN it remains too soon to determine the full extent of the damage at Phantom Ranch itself. Construction at the ranch was historically carried out largely by foot and mule train, since no roads reach the canyon floor, a detail that underscores just how difficult both the original construction and any future rebuilding effort at the site genuinely are."
+    },
+    {
+      "type": "heading",
+      "text": "A Mascot That Survived One Disaster, Now Watching the Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid the damage from last year's wildfire, one small piece of the park's history had a happier outcome. Brighty the Burro, a 600-pound bronze statue that had long greeted visitors at the Grand Canyon Lodge, was found damaged after the 2025 fire, but park officials chose to save the cherished mascot rather than let it be lost with the rest of the structure. The statue, modeled after a real burro who lived in the canyon in the early 20th century and, according to the Grand Canyon Historical Society, gave children rides and hauled water to a nearby summer camp in exchange for pancakes, is now being kept safe at the Grand Canyon Museum Collection facility, with no timeline yet set for its restoration or eventual return to the North Rim."
+    },
+    {
+      "type": "heading",
+      "text": "A Pattern Playing Out at National Parks Nationwide"
+    },
+    {
+      "type": "paragraph",
+      "text": "The back-to-back disasters at one of America's most visited national parks are unfolding against a broader pattern of extreme weather intensifying at protected natural sites nationally, as reporting on the flooding has noted. The Grand Canyon's mile-deep landscape can look timeless to visitors, but the past thirteen months have delivered a stark reminder that its historic structures, many built decades before modern flood and fire risk assessments existed, remain genuinely vulnerable to the kind of compounding natural disasters climate scientists have warned are becoming more frequent and more severe across the American Southwest."
+    }
+  ]
+}
+  ],
+  "finance": [
+    {
+  "slug": "treasury-yields-4-8-percent-fiscal-risk-national-debt-2026",
+  "title": "Bond Traders Watch One Number as US Debt Fears Grow",
+  "dek": "Treasury yields near 4.8% as US debt tops $40 trillion — strategists warn of spillover risk to stocks and real estate, with $8.4T due by year-end.",
+  "image": "/images/treasury-yields-4-8-percent-fiscal-risk-national-debt-2026.webp",
+  "author": "Emma Brooks",
+  "date": "08/09/2026",
+  "category": "Finance",
+  "categorySlug": "finance",
+  "metaDescription": "The 10-year Treasury yield is nearing a critical 4.8% level as US debt tops $40 trillion, with strategists warning of ripple effects into stocks and real estate.",
+  "tags": [
+    "Finance",
+    "Markets"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "There's a number bond traders have started watching more closely than almost anything else in markets right now: 4.8%. That's the level the 10-year Treasury yield is approaching, according to Matt Maley, chief market strategist at Miller Tabak + Co., and it isn't an arbitrary line. It marks the high reached back in January 2025, and Maley warns a sustained move above it could create meaningful problems for other asset classes well beyond the bond market itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pressure building underneath that number is genuinely substantial. Total US government debt has surpassed $40 trillion, and Maley estimates more than $8.4 trillion in government securities will need to be rolled over before the end of the year alone. Layer on top of that a corporate bond market doing brisk business of its own, September's high-grade corporate bond issuance could set an all-time record, according to Maley, with Goldman Sachs recently raising its full-year 2026 forecast for investment-grade issuance to $2.3 trillion, and the government now finds itself competing directly with corporations for a limited pool of investor capital within the same narrow window."
+    },
+    {
+      "type": "heading",
+      "text": "Why 'Fiscal Dominance' Is the Phrase Everyone's Using"
+    },
+    {
+      "type": "paragraph",
+      "text": "Strategists tracking the bond market have increasingly reached for a specific term to describe what's happening: fiscal dominance, the idea that government borrowing needs have grown large enough to start driving interest rate dynamics on their own, regardless of what the Federal Reserve is doing with its own policy rate. Michael Chen, general manager at Noah ARK Hong Kong, has framed the structural pressure on Treasurys as steadily building under that dynamic, pushing investors to demand greater compensation for the risk of holding long-term US debt. He's responded by favoring gold and hard currency as structural hedges, while staying underweight on ultra-long-duration Treasurys and keeping exposure instead to quality equities and real assets, including AI-related physical infrastructure like power grids and data centers."
+    },
+    {
+      "type": "paragraph",
+      "text": "That skepticism isn't confined to one analyst. HSBC has turned more cautious on long-dated developed-market bonds broadly, raising its end-2026 forecast for the 10-year Treasury yield to 4.65% from an earlier 4.30% estimate, citing what the bank described as a higher structural floor under long-term yields and a more hawkish range of possible Fed policy outcomes than it had previously expected."
+    },
+    {
+      "type": "heading",
+      "text": "The Government Has Already Tried, and Struggled, to Bring Yields Down"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's not as though policymakers have been standing still. Verbal intervention from the Treasury Department and Secretary Scott Bessent has so far failed to produce the desired decline in rates, according to Maley's own assessment, and the Treasury has moved to more concrete action as well: on August 19, it announced that starting September 9, it would at least double the size of its long-dated security buybacks in an effort to actually pull yields lower rather than simply talking them down."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of what's driving all this extends beyond any single data point. The 30-year Treasury bond yield closed at 5.27% on July 31, its highest mark since 2007, and net interest costs on the federal debt now consume 3.3% of the entire US economy in 2026, a figure the Peterson Foundation for Government Finance projects will climb to 4.6% within a decade. By 2047, on that same trajectory, net interest spending is projected to become the single largest category in the entire federal budget, ahead of defense, Social Security, or any other program."
+    },
+    {
+      "type": "heading",
+      "text": "What a Breach Above 4.8% Would Actually Mean"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the 10-year yield does push convincingly past 4.8%, strategists warn the effects wouldn't stay contained to the bond market. Assets that depend heavily on long-term cash flow projections, high-valuation growth stocks, commercial real estate, and various private-market assets, are considered particularly exposed to that kind of repricing, since higher long-term borrowing costs directly reduce the present value of cash flows expected many years into the future, the core math underlying how those assets get priced in the first place."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also worth noting this isn't purely an American story. Developed economies including Japan, the United Kingdom, and France are grappling with their own versions of the same fiscal pressure, part of a broader global shift where investors across multiple major bond markets are demanding higher compensation for holding long-term government debt, not just US Treasurys specifically."
+    },
+    {
+      "type": "heading",
+      "text": "The Underlying Problem That Isn't Going Away Soon"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maley has been direct about the limits of what near-term market moves can actually fix: even a temporary decline in yields wouldn't necessarily resolve the longer-term structural problem sitting underneath them. Ratings agencies have serially warned that US debt growth is unsustainable on its current trajectory, and bond market participants have taken note that an increasingly large share of the federal government's spending power now goes toward paying off yesterday's obligations rather than funding tomorrow's investments, a dynamic that's persisted even as policymakers have so far been unable to implement significant fiscal reforms to change the underlying trend."
+    }
+  ]
+},
+    {
+  "slug": "uber-debut-euro-bond-offering-delivery-hero-2026",
+  "title": "Uber Borrows in Euros for First Time Amid Big EU Deal",
+  "dek": "Uber hired five major banks for its first-ever euro bond sale, aimed at refinancing the €14.2B bridge loan behind its Delivery Hero takeover bid.",
+  "image": "/images/uber-debut-euro-bond-offering-delivery-hero-2026.webp",
+  "author": "Emma Brooks",
+  "date": "08/09/2026",
+  "category": "Finance",
+  "categorySlug": "finance",
+  "metaDescription": "Uber hired five major banks for its first-ever euro bond offering, aimed at refinancing the €14.2 billion bridge loan behind its Delivery Hero takeover bid.",
+  "tags": [
+    "Finance",
+    "Uber"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Uber Technologies is tapping the European debt markets for the very first time. The company has hired Goldman Sachs, BNP Paribas, BofA Securities, Deutsche Bank, and Morgan Stanley to arrange a series of fixed-income investor calls running September 7 through 8, laying the groundwork for a debut multi-tranche bond offering denominated entirely in euros, according to a person with knowledge of the deal."
+    },
+    {
+      "type": "paragraph",
+      "text": "A multi-tranche structure means Uber will issue bonds across several different maturities at once, spreading out its repayment schedule while giving investors with different time horizons, from those wanting shorter-term exposure to those comfortable locking in a longer holding period, options to actually participate. Specific tranche sizes, maturities, and pricing haven't been disclosed yet, which is standard at this early stage, just after banks have been formally mandated to run the deal."
+    },
+    {
+      "type": "heading",
+      "text": "Why This Specific Deal, and Why Now"
+    },
+    {
+      "type": "paragraph",
+      "text": "The bond sale isn't a routine refinancing exercise, it's directly tied to one of the largest cross-border tech acquisitions currently in motion. Back in July, Uber entered into a €14.2 billion euro-denominated bridge credit agreement, financing built specifically to support the company's voluntary public takeover offer for Delivery Hero SE, the publicly traded German food delivery platform that operates across dozens of markets spanning Europe, Asia, and the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bridge loans are, by design, meant to be temporary, a short-term financing tool used to move quickly on a deal before being replaced with more permanent, longer-term financing. That's exactly the role this euro bond offering is meant to play: converting Uber's temporary bridge facility into the kind of settled, long-duration debt structure a company wants sitting on its balance sheet for years rather than months."
+    },
+    {
+      "type": "heading",
+      "text": "Solving a Currency Problem Along the Way"
+    },
+    {
+      "type": "paragraph",
+      "text": "The euro-denominated structure solves a second problem for Uber beyond simply refinancing the bridge loan. Since earning an investment-grade credit rating, Uber has conducted multiple senior note offerings in US dollars, including bonds due in 2031 and 2035, using the proceeds largely to refinance older, higher-yielding debt. All of that borrowing activity, though, has been in dollars, even as a growing share of Uber's actual revenue, particularly post-Delivery Hero, comes in euros. That currency mismatch, earning revenue in one currency while carrying debt denominated in another, creates real financial risk from currency fluctuations alone. Issuing debt directly in euros closes that gap, functioning as a natural hedge rather than requiring Uber to layer on separate currency-hedging instruments to manage the mismatch."
+    },
+    {
+      "type": "heading",
+      "text": "A Long Way From Uber's Junk-Bond Days"
+    },
+    {
+      "type": "paragraph",
+      "text": "This moment marks a genuine milestone in Uber's evolution as a corporate borrower. For years, the company carried sub-investment-grade, junk-rated debt, a direct reflection of its cash-burning growth phase, when profitability was more of an aspiration than an actual financial reality. Uber's very first bond sale as a public company, back when it was financing its acquisition of Dubai-based Careem, priced with a yield around 7.5% and carried ratings in the lowest tier of junk. This week's euro offering, by contrast, is happening from a position of investment-grade strength, with Uber able to access considerably more favorable terms than it could have commanded even a few years into its life as a public company."
+    },
+    {
+      "type": "heading",
+      "text": "The Bond Sale Isn't Happening in Isolation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The financing news lands the same week Uber announced roughly 3,300 job cuts, its largest round of layoffs since the pandemic, a combination that's put the company's stock squarely in investors' focus. Uber shares were trading around $75.70 as of early September, a level that market analysis firm GuruFocus characterized as sitting roughly 23.6% below its own proprietary GF Value estimate of $99.20, a gap that frames the stock as potentially undervalued relative to that particular model, assuming Uber can sustain its current operational momentum and manage the new euro-denominated debt responsibly."
+    },
+    {
+      "type": "heading",
+      "text": "What Happens Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "With investor calls running through September 8, pricing and final terms for the bond offering are expected to follow in short order once the roadshow wraps up. For a company that spent its early years as a public borrower paying steep yields to access debt markets at all, successfully placing a debut euro bond offering to help fund one of its largest acquisitions to date marks a genuinely different chapter, one where Uber's financing options increasingly resemble those of an established, investment-grade blue-chip company rather than the fast-growing, cash-burning startup it once was."
+    }
+  ]
+},
+    {
+  "slug": "apple-foldable-iphone-launch-stock-catalyst-2026",
+  "title": "Apple's $2,000 Bet: Why Wall Street Watches iPhone Launch",
+  "dek": "Tuesday's event debuts Apple's first foldable iPhone and tests new CEO John Ternus, with Morgan Stanley estimating $14B in added December-quarter revenue.",
+  "image": "/images/apple-foldable-iphone-launch-stock-catalyst-2026.webp",
+  "author": "Emma Brooks",
+  "date": "08/09/2026",
+  "category": "Finance",
+  "categorySlug": "finance",
+  "metaDescription": "Apple's September 9 foldable iPhone launch, its first big event under new CEO John Ternus, could add $14 billion in quarterly revenue, Morgan Stanley says.",
+  "tags": [
+    "Finance",
+    "Apple"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Apple holds its fall product event Tuesday at Apple Park, and for once, the anticipation genuinely matches the hype. The headline act is widely expected to be the company's first-ever foldable iPhone, described by Morgan Stanley analyst Erik Woodring as Apple's most consequential launch since the iPhone X, the device that redefined the entire smartphone category back in 2017. It's also the first major product event for John Ternus, who took over as Apple's CEO earlier this month, meaning Tuesday doubles as an early referendum on his product-first leadership approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers riding on the launch are genuinely significant. Morgan Stanley estimates the foldable iPhone could contribute roughly $14 billion in December-quarter revenue on its own, with Woodring projecting Apple will build somewhere between 7 million and 8 million units in the second half of 2026, and as many as 20 million units across the device's full first product cycle."
+    },
+    {
+      "type": "heading",
+      "text": "A Genuinely Steep Price Tag"
+    },
+    {
+      "type": "paragraph",
+      "text": "None of that demand is guaranteed, and price is the biggest wildcard hanging over the launch. Supply-chain research firm TrendForce projected the foldable could start between $2,099 and $2,299, while separate analyst estimates have put the broader range as high as $2,500. Layered on top of the foldable's premium pricing, Morgan Stanley expects some of the steepest like-for-like price increases in iPhone history across the standard lineup too, driven by rising NAND and DRAM memory costs that are expected to push Pro model prices more than $200 higher year-over-year, with TrendForce projecting overall price increases in the 10% to 20% range industry-wide."
+    },
+    {
+      "type": "heading",
+      "text": "What the Foldable Is Actually Betting On"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reporting on the device points to a book-style foldable design with an inner display in the 7.7- to 7.8-inch range and a folded thickness under 10mm, alongside Apple's next-generation A20 Pro chip, reportedly manufactured on TSMC's 2nm process, and a second-generation in-house C2 modem. The strategy reflects a broader industry bet: research firm IDC expects the global foldable smartphone market to grow 12.6% in 2026 and accelerate to 18% growth the following year, with Apple projected to capture as much as 40% of global foldable shipments by 2027 if the launch goes well."
+    },
+    {
+      "type": "heading",
+      "text": "Why Wall Street Is Split on the Stock"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apple shares head into Tuesday's event trading close to their average analyst price target, with the stock's consensus rating sitting at Moderate Buy across the 41 analysts who cover it, 21 with a Strong Buy rating, three Moderate Buy, thirteen Hold, and four with some form of sell rating. Estimates for where the stock could land immediately following the event diverge sharply: one analysis has floated a bull case around $400 against a bear case near $263.66, a genuinely wide spread that reflects just how much hinges on both the launch's reception and how markets read Apple's pricing power heading into the crucial holiday quarter."
+    },
+    {
+      "type": "paragraph",
+      "text": "At roughly 37 times forward earnings heading into the event, Apple stock isn't priced as an obvious bargain regardless of how Tuesday goes, meaning the launch functions less as a chance to reset an undervalued stock and more as confirmation, or a real challenge, to the premium valuation the market has already assigned it."
+    },
+    {
+      "type": "heading",
+      "text": "The Bigger Financial Picture Behind the Launch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apple's underlying business heading into Tuesday remains genuinely strong on its own. iPhone revenue climbed 22% year-over-year to $54.3 billion in the June quarter, while total company revenue rose 16% to $109.4 billion, and management has guided for 9% to 11% growth in the September quarter with iPhone revenue growth in the mid-teens. That baseline strength is exactly why the foldable matters as more than a single product launch: after years of criticism that Apple's fall events lacked major form-factor upgrades, the foldable gives the company a genuine new growth catalyst rather than an incremental camera or chip refresh."
+    },
+    {
+      "type": "heading",
+      "text": "What Happens After Tuesday"
+    },
+    {
+      "type": "paragraph",
+      "text": "For investors, the practical read heading into the event is a cautious one: Tuesday's launch is the opportunity, but the real test comes in the weeks after, once early sales data, reviews of the foldable's durability, and initial demand signals start rolling in. Whether Ternus can convert what Morgan Stanley calls Apple's biggest form-factor bet in nearly a decade into sustained revenue growth, or whether steep pricing dents demand more than analysts currently expect, is likely to shape how Wall Street values Apple stock well beyond just this single earnings cycle."
+    }
+  ]
+},
+    {
+  "slug": "fed-interest-rate-decision-september-2026-preview",
+  "title": "All Eyes on the Fed: What to Expect From the Sept. 16 Decision",
+  "dek": "With inflation cooling but the committee divided, the Fed's September meeting brings both a rate decision and a fresh look at where the economy heads in 2027.",
+  "image": "/images/fed-interest-rate-decision-september-2026-preview.webp",
+  "author": "Emma Brooks",
+  "date": "07/09/2026",
+  "category": "Finance",
+  "categorySlug": "finance",
+  "tags": ["Finance", "Federal Reserve", "Interest Rates", "Economy"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Wall Street's biggest event of the month is now less than two weeks away. The Federal Reserve's Federal Open Market Committee meets September 15 and 16, with a policy announcement due at 2:00 p.m. ET on the 16th, followed by a press conference from Fed Chair Kevin Warsh. Unlike a routine hold-or-move decision, this meeting also comes with an updated Summary of Economic Projections, the quarterly \"dot plot\" that gives markets their clearest view yet of where officials expect rates to land over the next few years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The committee enters the meeting after holding its benchmark rate steady at 3.50% to 3.75% in July, a decision that passed on a divided 9-3 vote, with three officials pushing for a hike instead. Since then, the inflation picture has eased considerably. Headline consumer prices cooled to 3.5% in June, down sharply from 4.2% in May, largely thanks to a sizable pullback in energy costs, while core inflation, which strips out food and fuel, slipped to 2.6%. That cooling trend has fueled expectations that the Fed may finally be ready to pivot back toward cuts after keeping rates unchanged since December."
+    },
+    {
+      "type": "heading",
+      "text": "A Job Market That Complicates the Picture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not everyone on the committee is convinced the fight against inflation is finished, and a surprisingly strong August jobs report has only added to the debate. Stronger-than-expected payroll growth, combined with rising oil prices and a stubborn Treasury yield curve, has left some economists wondering whether the Fed's next move could actually be a hike rather than a cut, a scenario that seemed unthinkable just a few months ago. That tension between a cooling inflation trend and a resilient labor market is exactly the kind of split decision that has defined Fed meetings for much of 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "For everyday borrowers and investors, the stakes are real. Mortgage rates, credit card APRs, and savings account yields have all been shaped by the Fed's cautious, data-dependent approach this year, and September's projections will offer the first real signal of how officials see 2027 shaping up. Whatever the committee decides, markets are bracing for volatility around the announcement, with traders parsing every word of Chair Warsh's press conference for clues about what comes next."
+    }
+  ]
+},
+    {
+  "slug": "wall-street-hot-jobs-report-treasury-yields-september-2026",
+  "title": "Wall Street on Edge as Hot Jobs Report Scrambles Rate Cuts",
+  "dek": "A stronger-than-expected August payrolls report sent Treasury yields to multiyear highs and rattled stocks, complicating the Fed's path ahead of its pivotal September meeting.",
+  "image": "/images/wall-street-hot-jobs-report-treasury-yields-september-2026.webp",
+  "author": "Emma Brooks",
+  "date": "07/09/2026",
+  "category": "Finance",
+  "categorySlug": "finance",
+  "tags": ["Finance", "Stock Market", "Jobs Report", "Treasury Yields"],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "For weeks, investors had been pricing in a straightforward story: cooling inflation would give the Federal Reserve room to cut interest rates again this month. Then Friday's jobs report threw a wrench into that narrative. The U.S. economy added 162,000 jobs in August, triple what economists surveyed by Dow Jones had expected, while the unemployment rate held steady at 4.1%. Revisions to June and July also pushed both months higher, painting a labor market that looks far more resilient than Wall Street had assumed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets didn't take the news well. The Dow Jones Industrial Average fell 272 points, the S&P 500 slid 0.4%, and Treasury yields jumped as traders recalculated the odds of a September rate cut. The benchmark 10-year yield touched levels not seen since late 2023 earlier in the week, and the 2-year yield, which tends to track Fed policy expectations most closely, hit its highest point since January 2025. For a market that has leaned heavily on hopes of cheaper borrowing costs, the reversal was a reminder that the path to lower rates is rarely a straight line."
+    },
+    {
+      "type": "heading",
+      "text": "A Market Still Chasing Records, Despite the Turbulence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even with the recent bumps, 2026 has largely been a good year for stocks. Eight of the eleven S&P 500 sectors are in positive territory for the year, led by a red-hot energy sector that's up more than 40%, while both the Dow and S&P are on pace for back-to-back quarterly gains. But the rally has been uneven underneath the surface. Consumer-facing names like Nike have slumped to multi-decade lows, and travel and leisure stocks including Wynn Resorts and Carnival have also hit 52-week lows, even as healthcare and energy names notch fresh highs, a split that strategists say reflects growing unease about consumer spending heading into the holidays."
+    },
+    {
+      "type": "paragraph",
+      "text": "The next major test comes fast. With the Fed's rate decision landing September 16, this week's inflation data and any fresh commentary from Fed officials will be picked apart for clues about which way the committee leans. Some analysts now think a rate hike, not a cut, can't be ruled out if incoming data keeps running hot, a scenario that would have seemed far-fetched just a month ago. Until then, expect the kind of choppy, headline-driven trading that has defined markets for much of the back half of 2026."
+    }
+  ]
+}
   ],
   "sports": [
     {
@@ -1423,76 +1482,6 @@
       "text": "For a Texas program that has now hosted GameDay for three consecutive marquee matchups, this is the kind of stage the Longhorns have been building toward. A win would validate the preseason hype around Manning and vault Texas into the sport's clear top tier; a loss would simply reset the conversation heading into October. Either way, whichever team leaves Austin with the win will immediately become the favorite to represent their side of the bracket when the Playoff picture starts coming into focus later this fall."
     }
   ]
-},
-    {
-      "slug": "sports-story-5",
-      "title": "Placeholder headline for Sports story 5",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img1.webp",
-      "author": "James Carter",
-      "date": "10/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 5, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    },
-    {
-      "slug": "sports-story-6",
-      "title": "Placeholder headline for Sports story 6",
-      "dek": "A short summary describing what this sports article covers, giving readers enough context before they click through.",
-      "image": "/images/img2.webp",
-      "author": "James Carter",
-      "date": "09/07/2026",
-      "category": "Sports",
-      "categorySlug": "sports",
-      "tags": [
-        "Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Placeholder opening paragraph for Sports story 6, setting up the story and drawing the reader in with the most important information first."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder second paragraph, continuing to build out the context and detail of the story with supporting facts and quotes from sources."
-        },
-        {
-          "type": "heading",
-          "text": "A placeholder subheading"
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder paragraph following the subheading, moving the story into its next section with further reporting and analysis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Placeholder closing paragraph that wraps up the story, often with a forward-looking statement or a final quote from a source."
-        }
-      ]
-    }
+}
   ]
 }

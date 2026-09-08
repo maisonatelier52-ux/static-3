@@ -4,7 +4,7 @@ import Link from "next/link";
 import articleData from "../public/data/article.json";
 import authorData from "../public/data/author.json";
 
-const CATEGORY = "lifestyle";
+const CATEGORY = "finance";
 
 const parseDate = (dateStr) => {
   const [day, month, year] = dateStr.split("/");
@@ -16,8 +16,8 @@ function bylineFor(authorName) {
   return location ? `${authorName} | ${location.toUpperCase()}` : authorName;
 }
 
-// 5 newest Lifestyle articles, each used exactly once across the 5 slots.
-function getLifestyleStories() {
+// 5 newest Finance articles, each used exactly once across the 5 slots.
+function getFinanceStories() {
   const posts = [...(articleData[CATEGORY] || [])].sort(
     (a, b) => parseDate(b.date) - parseDate(a.date)
   );
@@ -79,9 +79,9 @@ function Story({ story, headlineSize = "text-lg" }) {
   );
 }
 
-export default function Lifestyle() {
+export default function Finance() {
   const { lead, middleTop, middleBottom, rightTop, rightBottom } =
-    getLifestyleStories();
+    getFinanceStories();
 
   if (!lead) return null;
 
@@ -89,7 +89,7 @@ export default function Lifestyle() {
     <section className="max-w-6xl mx-auto px-4 md:px-8 py-8">
     <div className="border-t-4 border-gray-900 pt-4 mb-6"></div>
       <h2 className="inline-block font-serif font-bold text-2xl text-gray-900 border-b-4 border-gray-900 pb-2 mb-6">
-        Lifestyle
+        Finance
       </h2>
     <div/>  
 

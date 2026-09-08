@@ -2,7 +2,7 @@ import Business from "@/components/business";
 import Health from "@/components/health";
 import World from "@/components/world";
 import US from "@/components/us";
-import Lifestyle from "@/components/lifestyle";
+import Finance from "@/components/finance";
 import Sports from "@/components/sports";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
       <Health />
       <World />
       <US />
-      <Lifestyle />
+      <Finance />
       <Sports />
     </main>
   );

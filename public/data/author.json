@@ -15,7 +15,7 @@
   },
   "David Kim": {
     "slug": "david-kim",
-    "category": "politics",
+    "category": "health",
     "avatar": "/images/authors/david-kim.jpg",
     "title": "Politics Reporter",
     "location": "Washington",
@@ -29,7 +29,7 @@
   },
   "Sara Wallace": {
     "slug": "sara-wallace",
-    "category": "health",
+    "category": "world",
     "avatar": "/images/authors/sara-wallace.jpg",
     "title": "Health Correspondent",
     "location": "Chicago",
@@ -43,7 +43,7 @@
   },
   "Michael Chen": {
     "slug": "michael-chen",
-    "category": "technology",
+    "category": "us",
     "avatar": "/images/authors/michael-chen.jpg",
     "title": "Technology Reporter",
     "location": "San Francisco",
@@ -57,7 +57,7 @@
   },
   "Emma Brooks": {
     "slug": "emma-brooks",
-    "category": "lifestyle",
+    "category": "finance",
     "avatar": "/images/authors/emma-brooks.jpg",
     "title": "Lifestyle Editor",
     "location": "Los Angeles",

@@ -46,11 +46,7 @@ export default function Spotlight() {
           {/* Left: image */}
           <div>
             <Link href={story.href} className="block mb-2">
-              <img
-                src={story.image}
-                alt=""
-                className="w-full h-auto object-cover"
-              />
+              <img src={story.image} alt="" className="w-full h-auto object-cover"/>
             </Link>
             <p className="text-xs text-gray-500 leading-snug">
               Placeholder caption. <span className="font-bold">PHOTO CREDIT</span>

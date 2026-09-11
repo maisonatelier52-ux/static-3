@@ -53,11 +53,7 @@ export default function TopStories() {
         {/* Left: lead story */}
         <div className="lg:pr-8 lg:border-r lg:border-gray-200">
           <Link href={lead.href} className="block mb-2">
-            <img
-              src={lead.image}
-              alt=""
-              className="w-full h-auto object-cover"
-            />
+            <img src={lead.image} alt="" className="w-full h-auto object-cover"/>
           </Link>
           <p className="text-xs text-gray-500 mb-3 leading-snug">
             Placeholder caption. PHOTO CREDIT
@@ -95,11 +91,7 @@ export default function TopStories() {
           {middleBottom && (
             <div>
               <Link href={middleBottom.href} className="block mb-2">
-                <img
-                  src={middleBottom.image}
-                  alt=""
-                  className="w-full h-auto object-cover"
-                />
+                <img src={middleBottom.image} alt="" className="w-full h-auto object-cover"/>
               </Link>
               <p className="text-xs text-gray-500 mb-3 leading-snug">
                 Placeholder caption. PHOTO CREDIT
@@ -123,15 +115,9 @@ export default function TopStories() {
         {right && (
           <div>
             <Link href={right.href} className="block mb-2">
-              <img
-                src={right.image}
-                alt=""
-                className="w-full h-auto object-cover"
-              />
+              <img src={right.image} alt="" className="w-full h-auto object-cover"/>
             </Link>
-            <p className="text-xs text-gray-500 mb-3 leading-snug">
-              Placeholder caption. PHOTO CREDIT
-            </p>
+            <p className="text-xs text-gray-500 mb-3 leading-snug">Placeholder caption. PHOTO CREDIT</p>
             <Link href={right.href} className="block">
               <h2 className="font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors text-lg md:text-3xl">
                 {right.headline}

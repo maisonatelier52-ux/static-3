@@ -49,11 +49,7 @@ function Story({ story, headlineSize = "text-lg" }) {
       {story.image && (
         <>
           <Link href={story.href} className="block mb-2">
-            <img
-              src={story.image}
-              alt=""
-              className="w-full h-auto object-cover"
-            />
+            <img src={story.image} alt="" className="w-full h-auto object-cover"/>
           </Link>
           <p className="text-xs text-gray-500 mb-2 leading-snug">
             {story.imageCaption}
@@ -61,9 +57,7 @@ function Story({ story, headlineSize = "text-lg" }) {
         </>
       )}
       <Link href={story.href} className="block">
-        <h3
-          className={`font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors ${headlineSize}`}
-        >
+        <h3 className={`font-serif font-bold text-gray-900 leading-tight hover:text-blue-700 transition-colors ${headlineSize}`}>
           {story.headline}
         </h3>
       </Link>

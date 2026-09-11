@@ -4,10 +4,10 @@ import Link from "next/link";
 
 const SECTIONS = [
   { name: "Business", href: "/business" },
-  { name: "Politics", href: "/politics" },
   { name: "Health", href: "/health" },
-  { name: "Technology", href: "/technology" },
-  { name: "Lifestyle", href: "/lifestyle" },
+  { name: "World", href: "/world" },
+  { name: "U.S.", href: "/us" },
+  { name: "Finance", href: "/finance" },
   { name: "Sports", href: "/sports" },
 ];
 

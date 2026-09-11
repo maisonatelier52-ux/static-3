@@ -36,23 +36,14 @@ export default function Sports() {
   return (
     <section className="max-w-6xl mx-auto px-4 md:px-8 py-8">
       <div className="border-t-4 border-gray-900 pt-4 mb-6">
-        <h2 className="font-serif font-bold text-2xl text-gray-900 border-b border-gray-900 pb-2">
-          Sports
-        </h2>
+        <h2 className="font-serif font-bold text-2xl text-gray-900 border-b border-gray-900 pb-2">Sports</h2>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {cards.map((card) => (
           <div key={card.href}>
-            <Link
-              href={card.href}
-              className="block mb-3 aspect-[16/10] overflow-hidden"
-            >
-              <img
-                src={card.image}
-                alt=""
-                className="w-full h-full object-cover"
-              />
+            <Link href={card.href} className="block mb-3 aspect-[16/10] overflow-hidden">
+              <img src={card.image} alt="" className="w-full h-full object-cover"/>
             </Link>
             <Link href={card.href} className="block">
               <h3 className="font-serif font-bold text-gray-900 leading-tight text-lg hover:text-blue-700 transition-colors">

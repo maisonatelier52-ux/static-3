@@ -196,35 +196,7 @@ export default function AuthorPage() {
           ))}
         </div>
       </div>
-
-      {/* Pagination */}
-      <div className="flex items-center justify-center gap-2 mt-14 pt-8 border-t border-gray-200">
-        <button
-          type="button"
-          className="px-3 py-1.5 text-sm border border-gray-300 text-gray-500 cursor-not-allowed"
-          disabled
-        >
-          Previous
-        </button>
-        <button
-          type="button"
-          className="px-3 py-1.5 text-sm border border-gray-900 bg-gray-900 text-white"
-        >
-          1
-        </button>
-        <button
-          type="button"
-          className="px-3 py-1.5 text-sm border border-gray-300 text-gray-700 hover:border-blue-700 hover:text-blue-700 transition-colors"
-        >
-          2
-        </button>
-        <button
-          type="button"
-          className="px-3 py-1.5 text-sm border border-gray-300 text-gray-700 hover:border-blue-700 hover:text-blue-700 transition-colors"
-        >
-          Next
-        </button>
-      </div>
+      
     </main>
   );
 }

@@ -55,11 +55,7 @@ function AdBox() {
         >
           i
         </button>
-        <img
-          src="/images/img1.webp"
-          alt="Advertisement"
-          className="w-full h-auto object-cover"
-        />
+        <img src="/images/img1.webp" alt="Advertisement" className="w-full h-auto object-cover"/>
       </div>
       <div className="p-3 flex items-center justify-between">
         <span className="text-xs text-gray-500">Advertisement</span>
@@ -94,11 +90,7 @@ export default function Highlight() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-center pb-8 border-b border-gray-200">
             <div>
               <Link href={lead.href} className="block mb-2">
-                <img
-                  src={lead.image}
-                  alt=""
-                  className="w-full h-auto object-cover"
-                />
+                <img src={lead.image} alt="" className="w-full h-auto object-cover"/>
               </Link>
               <p className="text-xs text-gray-500 leading-snug">
                 {lead.imageCaption}
@@ -124,11 +116,7 @@ export default function Highlight() {
             {cards.map((card) => (
               <div key={card.href}>
                 <Link href={card.href} className="block mb-2">
-                  <img
-                    src={card.image}
-                    alt=""
-                    className="w-full h-auto object-cover"
-                  />
+                  <img src={card.image} alt="" className="w-full h-auto object-cover"/>
                 </Link>
                 <Link href={card.href} className="block">
                   <h3 className="font-serif font-bold text-gray-900 leading-tight text-base hover:text-blue-700 transition-colors">
